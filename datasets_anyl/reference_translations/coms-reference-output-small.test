@@ -1,0 +1,3001 @@
+<s> returns the language strings </s>
+<s> fills the language fields with tehir matching texts </s>
+<s> returns the text field for the specified language </s>
+<s> adds a new tabsheet </s>
+<s> returns the model of the tabbed pane </s>
+<s> perform protocol version exchange as specified in rfc4253 section 4 </s>
+<s> creates a new </s>
+<s> initialize with default properties </s>
+<s> perform key exchange between client and server as specified in </s>
+<s> connect to the configured ssh server </s>
+<s> get bytes for use in a packet </s>
+<s> close ssh client </s>
+<s> receives a packet from server </s>
+<s> returns code true code if control character is directly renderable </s>
+<s> create a new </s>
+<s> create a new </s>
+<s> create a new </s>
+<s> create a new </s>
+<s> create a new session </s>
+<s> get a session for given information </s>
+<s> get a session for given information </s>
+<s> sets the cursor position where subsequent text will begin </s>
+<s> get a session for given information </s>
+<s> check if a usable </s>
+<s> fill screen content with empty strings </s>
+<s> save user and flush entity manager </s>
+<s> sets up the jlabel to show the following icon </s>
+<s> this is a faulty method because the pixels blink as it changes changes </s>
+<s> returns the imgs icon </s>
+<s> sets up the border and image of the rectangle </s>
+<s> repaints the rectangle </s>
+<s> make a smaller rectangle and use it to locate the </s>
+<s> make a larger rectangle and check to see if the </s>
+<s> this method deletes the note from the composition </s>
+<s> this sets up the jfile chooser for choosing an image </s>
+<s> this method returns a music note given the note id </s>
+<s> this method returns a note given its index in the list </s>
+<s> this is the get method for the comp size </s>
+<s> this method gets the list of notes in the composition </s>
+<s> this method prints all the info for every note in the compostion </s>
+<s> returns whether or not a picture is present </s>
+<s> set whether a picture is present </s>
+<s> this is the public version of deleting an image from a rectangle </s>
+<s> this is the public version of changing the color of the rectangle that </s>
+<s> this method is intended to be called from other classes </s>
+<s> this method is intended to be called from other classes </s>
+<s> this method is intended to be called from other classes </s>
+<s> this method is intended to be called from other classes </s>
+<s> this method is intended to be called from other classes </s>
+<s> this method is intended to be called from other classes </s>
+<s> this method is intended to be called from other classes </s>
+<s> this method is intended to be called from other classes </s>
+<s> this method is intended to be called from other classes </s>
+<s> this method is intended to be called from other classes </s>
+<s> this method is intended to be called from other classes </s>
+<s> this method is intended to be called from other classes </s>
+<s> this method is intended to be called from other classes </s>
+<s> get the note id </s>
+<s> this method is called when the jpanel is painted </s>
+<s> set the note id </s>
+<s> return all note information in a string </s>
+<s> this method is called when the mouse is pressed </s>
+<s> this method is intended to be called from other classes </s>
+<s> this method is intended to be called from other classes </s>
+<s> this method is called when the mouse is released </s>
+<s> this method is intended to be called from other classes </s>
+<s> this method is intended to be called from other classes </s>
+<s> this method is intended to be called from other classes </s>
+<s> this method is intended to be called from other classes </s>
+<s> make a smaller rectangle and use it to locate the </s>
+<s> this method is intended to be called from other classes </s>
+<s> this method is intended to be called from other classes </s>
+<s> make a larger rectangle and check to see if the </s>
+<s> this method is intended to be called from other classes </s>
+<s> this method is intended to be called from other classes </s>
+<s> this method is intended to be called from other classes </s>
+<s> this method is intended to be called from other classes </s>
+<s> this method is intended to be called from other classes </s>
+<s> this method is intended to be called from other classes </s>
+<s> attach the specified action listener to all instrument selection buttons </s>
+<s> this method is intended to be called from other classes </s>
+<s> attach the specified action listener to the instrument information combo box </s>
+<s> set the instrument on a channel </s>
+<s> get the index of the instrument on a channel </s>
+<s> get the index of the instrument on the currently selected channel </s>
+<s> get the name of the instrument on a channel </s>
+<s> attach the information panel to the specified jpanel </s>
+<s> get the name of the instrument on the currently selected channel </s>
+<s> select the current midi channel of the orchestra </s>
+<s> get the currently selected midi channel of the orchestra </s>
+<s> use the orchestra to play a midi note </s>
+<s> move the selected vertex up a pixel </s>
+<s> move the selected vertex down a pixel </s>
+<s> move the selected vertex left a pixel </s>
+<s> move the selected vertex right a pixel </s>
+<s> move the selected edge in a pixel </s>
+<s> move the selected edge out a pixel </s>
+<s> rotate the selected vertex left a degree </s>
+<s> rotate the selected vertex right a degree </s>
+<s> move the specified vertex up a pixel </s>
+<s> moves the selected vertex edge down </s>
+<s> moves the selected vertex edge up </s>
+<s> moves the selected vertex edge right </s>
+<s> move the specified edge up a pixel </s>
+<s> move the specified edge down a pixel </s>
+<s> make a smaller rectangle and use it to locate the </s>
+<s> rotate the specified edge left a degree </s>
+<s> make a larger rectangle and check to see if the </s>
+<s> rotate the specified edge right a degree </s>
+<s> adds the specified box when the capacity is sufficient </s>
+<s> called by the pattern regocnition class when the image is changed </s>
+<s> create the genotype and start the evolution </s>
+<s> evolves the given genotype </s>
+<s> get database connection create statment </s>
+<s> insert a news into news table </s>
+<s> initialize user table database </s>
+<s> delete a user </s>
+<s> get database connection create statment </s>
+<s> create user table </s>
+<s> list all news entries </s>
+<s> add a news </s>
+<s> drop news table </s>
+<s> delete a news </s>
+<s> get database connection create statment </s>
+<s> create news table </s>
+<s> drop news table </s>
+<s> dispatch to error page </s>
+<s> insert a news into news table </s>
+<s> get the information store associated with this section </s>
+<s> create a new subsection </s>
+<s> compare to another section sort </s>
+<s> get the section this photo belongs to </s>
+<s> returns name og preferences tab </s>
+<s> refresh the thumbnail of this photo </s>
+<s> get the photo itself as an image for displaying </s>
+<s> get required rotation of the photo </s>
+<s> get the photo itself as an image for displaying </s>
+<s> compare to another photo sort </s>
+<s> get whether the photo is marked as public </s>
+<s> get whether the section is marked as public </s>
+<s> get an attribute value for a photo </s>
+<s> set an attribute value for a photo </s>
+<s> get an attribute value for a section </s>
+<s> set an attribute value for a section </s>
+<s> get meta information from the photo e </s>
+<s> get the caption of a photo </s>
+<s> creates a new instance of jdai search frame bundle </s>
+<s> aborts any ongoing image reads </s>
+<s> get the caption of a section </s>
+<s> sets which listener should receive info about progress of reads </s>
+<s> returns the presentation of the jdai photo pane for use in composite guis </s>
+<s> set the jdai photo to display </s>
+<s> get the keywords of a photo </s>
+<s> method photo updated </s>
+<s> method rotate right </s>
+<s> method rotate left </s>
+<s> get the keywords of a section </s>
+<s> method rename photos </s>
+<s> method write protect photo </s>
+<s> returns a code string code containing all meta info on one line </s>
+<s> adds an options component to the preferences gui </s>
+<s> removes an options component from the preferences gui </s>
+<s> returns the presentation of the jdai photo zoom for use in composite guis </s>
+<s> saves the preferences should be called when the application quits </s>
+<s> set the jdai photo to display </s>
+<s> set the jdai photo to display </s>
+<s> creates a new instance of jdai search frame bundle </s>
+<s> returns the icon associated with the name from the resources </s>
+<s> tests if a thumbnail is included in exif data </s>
+<s> called by jtree when user selection changes </s>
+<s> method state changed </s>
+<s> method delete section </s>
+<s> sets the message concerning the photos in the status bar </s>
+<s> extracts thumbnail image from exif data </s>
+<s> sets the message concerning the sections in the status bar </s>
+<s> sets the search root attribute of the code jdai search frame code object </s>
+<s> get the displayname for the given field with locale support </s>
+<s> set the root jdai section for the tree </s>
+<s> called by jlist when user selection changes </s>
+<s> add a keyword </s>
+<s> this method is the action handler </s>
+<s> get the current keywords </s>
+<s> get the root code jdai section code from which the search should start </s>
+<s> set the root code jdai section code from which the search should start </s>
+<s> reports the end of a search and the number of found items </s>
+<s> lets the code delegate code view the selected section </s>
+<s> method save preferences </s>
+<s> lets the delegate view the selected photo s </s>
+<s> set the array of jdai photos to use in the list </s>
+<s> lets the delegate view all photos of the search result </s>
+<s> set the jdai section to use in the list </s>
+<s> get the selected jdai section </s>
+<s> method check section </s>
+<s> views the selected code jdai photo code in the photo viewer </s>
+<s> set the root jdai section for the tree </s>
+<s> get the option panel for this plugin </s>
+<s> views the selected code jdai section code in the photo viewer </s>
+<s> the method called when the tree selection is changed </s>
+<s> set the selected photo programatically </s>
+<s> the method called when the photo selection is changed </s>
+<s> is the selections valid </s>
+<s> implementation of the jdai search frame </s>
+<s> set the section to explore </s>
+<s> clear the cache directories </s>
+<s> clear the cache directories </s>
+<s> create a cached of scaled and correctly rotated photos </s>
+<s> create a cached of scaled and correctly rotated photos </s>
+<s> add code for a new node to an xtree </s>
+<s> check whether this node should be expanded </s>
+<s> build the source code for this sections subtree </s>
+<s> write the scaled and rotated cache file for a photo </s>
+<s> set the parent for this section </s>
+<s> get the path for this section </s>
+<s> get the photos for this section </s>
+<s> set the photo for this section </s>
+<s> get the first photo in this section </s>
+<s> get the previous photo in this section </s>
+<s> get the previous photo in this section </s>
+<s> get the next photo in this section </s>
+<s> get the next photo in this section </s>
+<s> get the last photo in this section </s>
+<s> is this photo the first photo in this section </s>
+<s> is this photo the last photo in this section </s>
+<s> get the subsections for this section </s>
+<s> check whether a given subsection exists in this section </s>
+<s> set the sub sections for this section </s>
+<s> get the jdai section for this section </s>
+<s> set the jdai section for this photo </s>
+<s> set the section for this photo </s>
+<s> get the jdai photo for this photo </s>
+<s> set the jdai photo for this photo </s>
+<s> get the meta information exif for this photo </s>
+<s> set the meta information exif for this photo </s>
+<s> get the meta information exif as html for this photo </s>
+<s> set the meta information exif as html for this photo </s>
+<s> get the root section </s>
+<s> create a photo object </s>
+<s> create a photo cache file for a given photo in selected dimensions </s>
+<s> set the photo info on a photo object </s>
+<s> get the jdai section for this section name </s>
+<s> set the photo info on a photo object </s>
+<s> get the full path for a section </s>
+<s> remove photo cache files for a given section </s>
+<s> create a section from a section name </s>
+<s> set the photo info on a photo object </s>
+<s> remove a photo cache file for a given photo in selected dimensions </s>
+<s> get a jdai photo object </s>
+<s> write a photo scaled to a given size to an output stream </s>
+<s> write a photo scaled to a given size to an output stream </s>
+<s> write thumbnail for a photo to an output stream </s>
+<s> write thumbnail for a photo to an output stream </s>
+<s> write the scaled and rotated cache file for a photo </s>
+<s> get the width for a given orientation </s>
+<s> get the height for a given orientation </s>
+<s> sets the message context on context </s>
+<s> sets the security context on context </s>
+<s> sets the transaction context on context </s>
+<s> get injection annotation </s>
+<s> gets the message context </s>
+<s> gets the security context </s>
+<s> gets the transaction context </s>
+<s> sets the taget page </s>
+<s> returns the maximum number of pages whose default value is 10 </s>
+<s> informs that the line current is accessible </s>
+<s> returns the number of records per page whose default value is 50 </s>
+<s> it binds to the paged result to date model </s>
+<s> it binds to the list to date model </s>
+<s> returns the maximum number of pages </s>
+<s> returns the number of records per page </s>
+<s> returns the current line of the page </s>
+<s> returns the index of current row </s>
+<s> returns a list of objects from the current page </s>
+<s> test method for </s>
+<s> retrieves the persistence unit name associated with trasaction resource </s>
+<s> tries to make effective the operations upon database </s>
+<s> test method for </s>
+<s> reverts all the operations executed in a database by </s>
+<s> retrieves a field of a table attribute of an object by its name </s>
+<s> sets the attributes of jdbcutil with values loaded from </s>
+<s> get the table name from command sql </s>
+<s> if attribute url jndi is null open the connection by url </s>
+<s> sets the connection as a resource of transaction context </s>
+<s> retrieves the connection from transaction context </s>
+<s> initialize hibernate configuration </s>
+<s> seek hibernate session on the itransaction context resource </s>
+<s> return the hibernate session </s>
+<s> return hiberante session </s>
+<s> commit all modify on persistent objects </s>
+<s> close all connections with repository and clean hibernate session </s>
+<s> rollback all modify on persistent objects </s>
+<s> configure hibernate make a session put hibernate resource on </s>
+<s> commit hibernate session and close the connection with repository </s>
+<s> rollback all modify on persist objects </s>
+<s> return true if pojo is object persistent pojo object not fixed on session </s>
+<s> opens an user transaction if still not open </s>
+<s> returns an entity manager factory for the specified persistence unit name </s>
+<s> make the pojo persistent and insert on fisic repository </s>
+<s> make the pojo object transient and delete fisic from repository </s>
+<s> method flagged to be further removed </s>
+<s> this method not remove the object from persistent repository </s>
+<s> deletes physically from repository and removes the reference from </s>
+<s> refreshes the given entity </s>
+<s> executes an update or delete statement in jpql language </s>
+<s> retrieves the number of persisted objects for the current class type </s>
+<s> creates an instance of </s>
+<s> creates an instance of </s>
+<s> calculates the first result </s>
+<s> retrieves for the given injection context the replacement rules by convention </s>
+<s> returns whether a class implements a determined interface </s>
+<s> set the http servlet request into the trheadlocal request </s>
+<s> returns the user principal from the request </s>
+<s> this method removes the http servlet request from thread local </s>
+<s> when a request is initialized this method is called </s>
+<s> removes the request from the security context </s>
+<s> delegates the injection function to its specific factory </s>
+<s> switches the states </s>
+<s> given a string containing the name of the state it returns </s>
+<s> given a volume returns the concentration in mol </s>
+<s> sets the random number seed for this model and recreates a </s>
+<s> counts the number of rotations since last gram schmidt </s>
+<s> read receptors occupation and update stochsim corresponding dynamic values </s>
+<s> switches the states </s>
+<s> sets the model associated with this controller </s>
+<s> returns the sim model currently associated with this base controller </s>
+<s> gets the display cell width </s>
+<s> sets the display cell width </s>
+<s> gets the display cell height </s>
+<s> sets the display cell height </s>
+<s> gets the display cell depth </s>
+<s> sets the display cell depth </s>
+<s> sets the schedule to be run by the controller </s>
+<s> returns the schedule associated with base controller </s>
+<s> gets the current simulation time tick count the current number of </s>
+<s> gets the current simulation time tick count the current number of </s>
+<s> sets the random seed for the current model </s>
+<s> gets the current random seed for the current model </s>
+<s> starts the simulation </s>
+<s> notifies object monitor that controlls pausing </s>
+<s> gets the parameters of the current loaded model </s>
+<s> pauses the simulation </s>
+<s> stops the simulation </s>
+<s> is this a batch controller </s>
+<s> adds a sim event listener to listen for sim events broadcast from </s>
+<s> removes a sim event listener from the list of listeners listening for </s>
+<s> fires a sim event to the registered listeners </s>
+<s> allows for the storage of objects to persist beyond the life of a </s>
+<s> gets a stored persistent over the life of many runs object </s>
+<s> returns the primary key identifying this ejbean </s>
+<s> runs a multi client big spender and makes it </s>
+<s> required by the ejb specification this method is not used </s>
+<s> basic servlet information </s>
+<s> gets an initial context for the current user password and url </s>
+<s> this method is required by the ejb specification </s>
+<s> stores the ejbean in the persistent storage </s>
+<s> required by the ejb specification this method is not used </s>
+<s> called when button is clicked </s>
+<s> called when button is clicked </s>
+<s> called when window is being closed </s>
+<s> invoked the first time a window is made visible </s>
+<s> invoked when the user attempts to close the window </s>
+<s> invoked when a window has been closed as the result </s>
+<s> invoked when a window is changed from a normal to a </s>
+<s> invoked when a window is changed from a minimized </s>
+<s> invoked when the window is set to be the users </s>
+<s> invoked when a window is no longer the users active </s>
+<s> add document to single category </s>
+<s> display entire contents of library </s>
+<s> display contents for single category </s>
+<s> display contents for single document include all its categories </s>
+<s> retrieves documents for a given category </s>
+<s> retrieves list of categories for a given document </s>
+<s> generate a random integer between min and max </s>
+<s> pick a random string from a given array of strings </s>
+<s> overridden from thread </s>
+<s> add a document to the library </s>
+<s> add document to single category </s>
+<s> display entire contents of library </s>
+<s> display contents for single category </s>
+<s> display contents for single document include all its categories </s>
+<s> retrieves documents for a given category </s>
+<s> retrieves array list of categories for a given document </s>
+<s> returns attributes as formatted string </s>
+<s> prints attributes to standard output </s>
+<s> prints attributes to standard output </s>
+<s> overridden from thread </s>
+<s> overridden from thread </s>
+<s> prints attributes to standard output </s>
+<s> add a document to the library </s>
+<s> get the persons birthyear </s>
+<s> string form of person object </s>
+<s> print the content on stdout </s>
+<s> sort arr on length of the sub arrays </s>
+<s> string form of person object </s>
+<s> init is a seperate method to keep </s>
+<s> go reads the keyboard input and sends it out </s>
+<s> call this method if you want to show a new message </s>
+<s> this method runs in its own thread and just listenens to </s>
+<s> run method will loop untill an error occurs </s>
+<s> run method will loop untill an error occurs </s>
+<s> this method is called when a new message comes in </s>
+<s> send out the message to all the clients </s>
+<s> send the message to the server </s>
+<s> run listens for incoming messages and sends them out to all listeners </s>
+<s> this method will be called from the ui </s>
+<s> read the incoming messages from the server </s>
+<s> private method that really sends out the message </s>
+<s> shake hands with the server </s>
+<s> set the listener for in comming messages </s>
+<s> put the message in the outgoing queue </s>
+<s> this run method empties the queue </s>
+<s> load a properties object from a properties file </s>
+<s> load a properties object from a file managed by a http server </s>
+<s> implementation of runnables run method </s>
+<s> creates and runs my second thread </s>
+<s> overridden from thread </s>
+<s> creates and runs my first thread </s>
+<s> stops this thread no need for synchronized method </s>
+<s> method with string parameter </s>
+<s> method returning int can access constant </s>
+<s> print information about class and its member variables </s>
+<s> make a sound when kicked </s>
+<s> retrieve an iterator on the private data </s>
+<s> are there any more elements </s>
+<s> retrieve next element advance the index to the next </s>
+<s> executes the holy cow processing </s>
+<s> the setter for the course attribute course id from course catalog </s>
+<s> the setter for the destdir attribute destination dir </s>
+<s> the setter for the project </s>
+<s> the setter for the handout2pdf </s>
+<s> one line abstract of method or constructor </s>
+<s> one line abstract of method or constructor </s>
+<s> to call after the parent frame or applet is shown </s>
+<s> dispose the panel </s>
+<s> dispose the component </s>
+<s> return the value of the filed canceled </s>
+<s> set the value of the field canceled </s>
+<s> set the value of the field ok </s>
+<s> set the value of the field set </s>
+<s> return the value of the filed refuse label </s>
+<s> set the value of the field refuse label </s>
+<s> dispose the panel </s>
+<s> init the frame </s>
+<s> set the value of the field lat </s>
+<s> set the value of the field lon </s>
+<s> set the value of the field town </s>
+<s> enable or disable the layer panel </s>
+<s> initialize route service </s>
+<s> add a point corresponding to the given ip </s>
+<s> return the route point corresponding to the given ip </s>
+<s> return the local ipv4 of the given device </s>
+<s> dispose the route </s>
+<s> notify the listeners of a focus on the given point </s>
+<s> returns the country the ip address is in </s>
+<s> returns the country the ip address is in </s>
+<s> constructor for primary key </s>
+<s> constructor for primary key </s>
+<s> constructor for primary key </s>
+<s> set the value related to the column topic name </s>
+<s> set the value related to the column roleid </s>
+<s> set the value related to the column userid </s>
+<s> constructor for primary key </s>
+<s> constructor for primary key </s>
+<s> constructor for primary key </s>
+<s> constructor for primary key </s>
+<s> set the value related to the column date examine </s>
+<s> set the value related to the column audit date </s>
+<s> set the value related to the column result </s>
+<s> constructor for primary key </s>
+<s> set the value related to the column result </s>
+<s> set the value related to the column auditor </s>
+<s> set the value related to the column audience id </s>
+<s> set the value related to the column vedio id </s>
+<s> set the value related to the column arrange date </s>
+<s> set the value related to the column vediotapes </s>
+<s> set the value related to the column resources </s>
+<s> set the value related to the column auditings </s>
+<s> constructor for primary key </s>
+<s> set the value related to the column user pass </s>
+<s> constructor for primary key </s>
+<s> set the value related to the column employee </s>
+<s> set the value related to the column roles </s>
+<s> set the value related to the column registration no </s>
+<s> set the value related to the column age </s>
+<s> set the value related to the column contact person </s>
+<s> set the value related to the column gender </s>
+<s> constructor for primary key </s>
+<s> set the value related to the column career </s>
+<s> constructor for primary key </s>
+<s> set the value related to the column resourceid </s>
+<s> constructor for primary key </s>
+<s> set the value related to the column operation </s>
+<s> constructor for primary key </s>
+<s> constructor for primary key </s>
+<s> set the value related to the column contract date </s>
+<s> constructor for primary key </s>
+<s> set the value related to the column subject name </s>
+<s> set the value related to the column story score </s>
+<s> constructor for primary key </s>
+<s> set the value related to the column vedio name </s>
+<s> constructor for primary key </s>
+<s> set the value related to the column tech score </s>
+<s> constructor for primary key </s>
+<s> set the value related to the column perform score </s>
+<s> constructor for primary key </s>
+<s> set the value related to the column date coming </s>
+<s> set the value related to the column users </s>
+<s> set the value related to the column innovate score </s>
+<s> constructor for primary key </s>
+<s> set the value related to the column date input </s>
+<s> set the value related to the column score </s>
+<s> set the value related to the column award </s>
+<s> set the value related to the column orientation </s>
+<s> set the value related to the column market share </s>
+<s> set the value related to the column accuracy </s>
+<s> set the value related to the column audience rating </s>
+<s> set the value related to the column purchase </s>
+<s> set the value related to the column topic </s>
+<s> set the value related to the column inputer </s>
+<s> set the value related to the column vedio id </s>
+<s> set the value related to the column examiner </s>
+<s> set the value related to the column status </s>
+<s> set the value related to the column operator </s>
+<s> set the value related to the column subject </s>
+<s> set the value related to the column company id </s>
+<s> set the value related to the column vedioscores </s>
+<s> set the value related to the column playorders </s>
+<s> set the value related to the column playchangelogs </s>
+<s> create the toolbar </s>
+<s> create the menubar for the app </s>
+<s> create a menu for the app </s>
+<s> return the shopping cart for this specific user </s>
+<s> gets the total purchase price </s>
+<s> adds a cheese item to the shopping cart </s>
+<s> returns the session instance associated with the current user </s>
+<s> returns the shopping cart for this user </s>
+<s> gets the zip code </s>
+<s> display each row in the table </s>
+<s> p retorna a porta serial solicitada p </s>
+<s> retorna o id </s>
+<s> retorna o tipo do evento </s>
+<s> p retorna o jcontent pane com o layout border layout p </s>
+<s> p retorna a url do web service p </s>
+<s> this method initialize </s>
+<s> this method initializes j content pane </s>
+<s> update score when any param is changed </s>
+<s> performs full tree traversal using recursion </s>
+<s> performs the standard binary search using two comparisons per level </s>
+<s> remove a member </s>
+<s> caution time is not taken care in this method </s>
+<s> trajectories are supposed to have the same number of points </s>
+<s> calculates the orthogonal perpendicular distance between a given point and a line </s>
+<s> this method computes the real duration for each entry by traversing the </s>
+<s> get the mime type of the data that this </s>
+<s> insert content from the given stream which is expected </s>
+<s> load the configuration data for this playlist from the supplied document </s>
+<s> get attribute method comment </s>
+<s> get init parameter method comment </s>
+<s> invalidate method comment </s>
+<s> is new method comment </s>
+<s> get init parameter method comment </s>
+<s> get mime type method comment </s>
+<s> get auth type method comment </s>
+<s> get real path method comment </s>
+<s> add cookie method comment </s>
+<s> add date header method comment </s>
+<s> log method comment </s>
+<s> add header method comment </s>
+<s> get character encoding method comment </s>
+<s> log method comment </s>
+<s> add int header method comment </s>
+<s> log method comment </s>
+<s> contains header method comment </s>
+<s> remove attribute method comment </s>
+<s> encode redirect url method comment </s>
+<s> set attribute method comment </s>
+<s> flush buffer method comment </s>
+<s> get buffer size method comment </s>
+<s> is committed method comment </s>
+<s> get context path method comment </s>
+<s> reset method comment </s>
+<s> reset buffer method comment </s>
+<s> send error method comment </s>
+<s> send error method comment </s>
+<s> send redirect method comment </s>
+<s> set buffer size method comment </s>
+<s> set content length method comment </s>
+<s> writes the specified byte to this output stream </s>
+<s> get header method comment </s>
+<s> writes the specified byte to this output stream </s>
+<s> set content type method comment </s>
+<s> flushes the underlying outputstream </s>
+<s> set date header method comment </s>
+<s> set header method comment </s>
+<s> returns the number of available bytes on the inputstream </s>
+<s> reads the next byte of data from the input stream </s>
+<s> get int header method comment </s>
+<s> set int header method comment </s>
+<s> reads data from the inputstream and fills the buffer b </s>
+<s> reads data from the inputstream and fills the buffer b </s>
+<s> set status method comment </s>
+<s> set status method comment </s>
+<s> get method method comment </s>
+<s> kill all processing servers and close server socket </s>
+<s> this method returns the timeout value for a client connection </s>
+<s> get path info method comment </s>
+<s> this method returns the timeout value for a listening on </s>
+<s> this method returns a context container with contexts </s>
+<s> this method propagates a reread of the configuration file </s>
+<s> get path translated method comment </s>
+<s> gets the finished flag </s>
+<s> get protocol method comment </s>
+<s> get query string method comment </s>
+<s> get real path method comment </s>
+<s> get attribute method comment </s>
+<s> get remote host method comment </s>
+<s> get auth type method comment </s>
+<s> add cookie method comment </s>
+<s> get remote user method comment </s>
+<s> add date header method comment </s>
+<s> add header method comment </s>
+<s> add int header method comment </s>
+<s> get character encoding method comment </s>
+<s> get requested session id method comment </s>
+<s> contains header method comment </s>
+<s> encode redirect url method comment </s>
+<s> writes the specified byte to this output stream </s>
+<s> reads the next byte of data from the input stream </s>
+<s> insert the methods description here </s>
+<s> flush buffer method comment </s>
+<s> drop all requests their processing servers </s>
+<s> get buffer size method comment </s>
+<s> set the finished flag </s>
+<s> is committed method comment </s>
+<s> reset method comment </s>
+<s> reset buffer method comment </s>
+<s> send error method comment </s>
+<s> get server name method comment </s>
+<s> send error method comment </s>
+<s> send redirect method comment </s>
+<s> set buffer size method comment </s>
+<s> set content length method comment </s>
+<s> set content type method comment </s>
+<s> set date header method comment </s>
+<s> set header method comment </s>
+<s> get servlet path method comment </s>
+<s> get context path method comment </s>
+<s> set int header method comment </s>
+<s> set locale method comment </s>
+<s> set status method comment </s>
+<s> is requested session id from cookie method comment </s>
+<s> set status method comment </s>
+<s> is requested session id from url method comment </s>
+<s> is requested session id from url method comment </s>
+<s> is requested session id valid method comment </s>
+<s> is secure method comment </s>
+<s> is user in role method comment </s>
+<s> get int header method comment </s>
+<s> remove attribute method comment </s>
+<s> set attribute method comment </s>
+<s> get method method comment </s>
+<s> set context path method comment </s>
+<s> sets the method </s>
+<s> gets the headers </s>
+<s> get path info method comment </s>
+<s> sets the headers </s>
+<s> get path translated method comment </s>
+<s> get protocol method comment </s>
+<s> get query string method comment </s>
+<s> get real path method comment </s>
+<s> get remote addr method comment </s>
+<s> get remote host method comment </s>
+<s> get remote user method comment </s>
+<s> get server name method comment </s>
+<s> get servlet path method comment </s>
+<s> is requested session id from cookie method comment </s>
+<s> is requested session id from url method comment </s>
+<s> is requested session id from url method comment </s>
+<s> is requested session id valid method comment </s>
+<s> is secure method comment </s>
+<s> is user in role method comment </s>
+<s> remove attribute method comment </s>
+<s> set attribute method comment </s>
+<s> recupera o tick seguinte se houver </s>
+<s> converts value to string </s>
+<s> draws the text </s>
+<s> gets the string size </s>
+<s> returns the point from center point bei alpha angle </s>
+<s> calculates percentage of the value </s>
+<s> perform actual look up </s>
+<s> look up the configuration for specific variable parameter </s>
+<s> set specific object of the given class to populate template with values </s>
+<s> find by resource id </s>
+<s> delete weave object </s>
+<s> delete weave object </s>
+<s> update weave object </s>
+<s> insert weave object </s>
+<s> check if the weave object already exists </s>
+<s> get magnet hash link of the wbo </s>
+<s> set specific magnet hash link of the wbo </s>
+<s> rough count of the rows in db </s>
+<s> set attribute for template </s>
+<s> resolving paths and properties for the store </s>
+<s> close all entity stories and environment at all </s>
+<s> public double dotproduct matrix a matrix b </s>
+<s> update the progress </s>
+<s> create and configure worker </s>
+<s> get configured workers </s>
+<s> format min max avg display </s>
+<s> called when worker status changed </s>
+<s> call to update our status according to the workers </s>
+<s> the wsc will be called when this objects status changes </s>
+<s> add a worker to our display </s>
+<s> must be called to inform user of status changes </s>
+<s> file to which report was written </s>
+<s> how much to wait between work iterations </s>
+<s> implement to do one iteration of our work </s>
+<s> write report to disk </s>
+<s> how much to wait if an iteration throws an exception </s>
+<s> wait the specified number of msec changing status if info is provided </s>
+<s> for now report exceptions to stderr only </s>
+<s> for now report exceptions to stderr only </s>
+<s> configure this worker </s>
+<s> retrieve the content of our url return the time in msec </s>
+<s> read the contents of given urlconnection which must be connected </s>
+<s> reads the report from the specified template file </s>
+<s> method to return the id of the session at the specific index </s>
+<s> method to set the session for a specific index </s>
+<s> method to return all order information retrieved from the view report order </s>
+<s> method used by the view report order </s>
+<s> this is the string that gets returned when staff members are selected </s>
+<s> method to use the response selected times to alter all activity </s>
+<s> this is the string that gets returned when campers are selected </s>
+<s> method to set a new registration charge into the action form </s>
+<s> private method to add a transport leg to the registration being created </s>
+<s> private method to remove a transport leg from the registration being created </s>
+<s> private method to remove a transport leg from the registration being created </s>
+<s> method to set canteen information in the action form </s>
+<s> method to set user information into the action form </s>
+<s> method to update the current session with the new setting information </s>
+<s> method to set the user role into the action form </s>
+<s> method to set a role into the action form </s>
+<s> method to set the role into the action form </s>
+<s> method to set a new role into the form </s>
+<s> method to set the user information into the action form </s>
+<s> method to set the user into the action form </s>
+<s> method to set the user information into the action form </s>
+<s> method to set a report group into the action form </s>
+<s> method to set a report into the action form </s>
+<s> method to set a report group into the action form </s>
+<s> method to set a report group into the action form </s>
+<s> method to set a report into the action form </s>
+<s> method to set a report into the action form </s>
+<s> method to set a report group into the action form </s>
+<s> method to set a report into the action form </s>
+<s> method to set user information into the action form </s>
+<s> method to place the destinations for each type of transport into the session </s>
+<s> method to remove all destination information from the session </s>
+<s> method to set the session into the form </s>
+<s> method to set the session into the form </s>
+<s> method to set the session into the form </s>
+<s> simple method that creates a list of years starting with the current year </s>
+<s> method to set a staff yearly entity into the action form </s>
+<s> method to set a staff member into the action form </s>
+<s> method to set a staff yearly entity into the action form </s>
+<s> method to set a staff yearly entity into the action form </s>
+<s> method to set a staff member into the action form </s>
+<s> method to set a staff member into the action form </s>
+<s> method to set a staff member into the action form </s>
+<s> method to set the enumerations into the action form </s>
+<s> method to set the activity instances into the action form </s>
+<s> method to set the time slots into the form </s>
+<s> method to set the activities into the form </s>
+<s> method to set a camper into the action form </s>
+<s> method to get all activity instances into the form </s>
+<s> method to set a camper into the action form </s>
+<s> method to set a camper into the action form </s>
+<s> method to set cabin into form </s>
+<s> method to populate action form with all cabin assignments for a given session </s>
+<s> method to populate the action form with the session </s>
+<s> method to set cabin into form </s>
+<s> method to get the inquiry into the action form </s>
+<s> method to set incident information into the action form </s>
+<s> method to set incident information into the action form </s>
+<s> method to set incident information into the action form </s>
+<s> method to set incident information into the action form </s>
+<s> compares the specified object with this code principal role code </s>
+<s> compares the specified object with this code role code </s>
+<s> return a hash code for this code role code </s>
+<s> compares the specified object with this code principal code </s>
+<s> return a hash code for this code principal code </s>
+<s> method to add seasonal information to a staff member </s>
+<s> convenience method for use by hibernate qbe </s>
+<s> convenience method for use by hibernate qbe </s>
+<s> convenience method for use by hibernate qbe </s>
+<s> convenience method for use by hibernate qbe </s>
+<s> convenience method for use by hibernate qbe </s>
+<s> returns difference flag </s>
+<s> returns difference position in expected file </s>
+<s> returns difference position in actual file </s>
+<s> compares two java sources specified in strings </s>
+<s> compares two java source files denoted by specified paths </s>
+<s> compares two java sources provided via </s>
+<s> compares two java sources provided via input </s>
+<s> compares two java sources provided via input </s>
+<s> compares two java sources provided via input </s>
+<s> tells if there is any collected error messages </s>
+<s> returns the string representation of this object </s>
+<s> add a scope to the end of the list of scopes </s>
+<s> removes a scope from the scope </s>
+<s> append a path to the scope </s>
+<s> removes a path from the scope </s>
+<s> returns the valid value for a given key in this parameters hierarchy </s>
+<s> invalidates this textual representation </s>
+<s> returns the string representation of this object </s>
+<s> writes this tikz file to disk </s>
+<s> replaces a given syntax tikz picture with another picture </s>
+<s> adds a part to this tikz file </s>
+<s> adds a part to this tikz file </s>
+<s> closes the currently processed document </s>
+<s> invoked when a new picture is going to be created </s>
+<s> sets the documents state </s>
+<s> opens a new picture in the current window or in a new one </s>
+<s> returns a string of whitespaces until the next non whitespace chracter </s>
+<s> returns the next consecutive char sequence till the given delimiters </s>
+<s> returns the next consecutive char sequence </s>
+<s> returns the next found numeral as a string that matches the </s>
+<s> returns the tikz file that corresponds to the given filename </s>
+<s> paints this figure </s>
+<s> set this figure to state selected </s>
+<s> shows the file chooser dialog </s>
+<s> show the tik z picture chooser dialog i </s>
+<s> displays a picture </s>
+<s> returns the windows editor panel instance </s>
+<s> sets the marker marker line on the ruler to its current position </s>
+<s> returns the current manipulation mode </s>
+<s> sets the active code manipulation mode code for this draw panel </s>
+<s> creates the view menu </s>
+<s> creates the file menu </s>
+<s> at startup create and show the main frame of the application </s>
+<s> create cookie for test cookie greater than method test </s>
+<s> verify the value stored in a cookie using code greater than tag code </s>
+<s> verify the value stored in header using code greater than tag code </s>
+<s> verify the value stored in parameter using code greater than tag code </s>
+<s> verify the value stored in parameter using code less than tag code </s>
+<s> create cookie for test cookie string equals method test </s>
+<s> create cookie for test cookie present method test </s>
+<s> create cookie for test cookie present method test </s>
+<s> verify the value stored in a cookie using code greater equal tag code </s>
+<s> verify the value stored in header using code greater equal tag code </s>
+<s> verify that there is an cookie using the code present tag code </s>
+<s> verify the value stored in parameter using code greater equal tag code </s>
+<s> verify the value stored in parameter using code less equal tag code </s>
+<s> verify that there isnt an parameter using the code present tag code </s>
+<s> corner cases on get dyna property invalid arguments </s>
+<s> corner cases on get indexed property invalid arguments </s>
+<s> corner cases on get mapped property invalid arguments </s>
+<s> positive and negative tests on get mapped property valid arguments </s>
+<s> corner cases on get simple property invalid arguments </s>
+<s> test get simple property on a boolean property </s>
+<s> perform our logged in user check by looking for the existence of </s>
+<s> test get simple property on a double property </s>
+<s> test get simple property on a float property </s>
+<s> test get simple property on a int property </s>
+<s> test get simple property on a long property </s>
+<s> test get simple property on a short property </s>
+<s> test code contains code method for mapped properties </s>
+<s> test code remove code method for mapped properties </s>
+<s> corner cases on set indexed property invalid arguments </s>
+<s> positive and negative tests on set mapped property valid arguments </s>
+<s> test set simple property on a boolean property </s>
+<s> test set simple property on a double property </s>
+<s> test set simple property on a float property </s>
+<s> release any acquired resources </s>
+<s> generate an html lt textarea gt tag </s>
+<s> renders the value displayed in the lt textarea gt tag </s>
+<s> test set simple property on a int property </s>
+<s> test set simple property on a long property </s>
+<s> generate the required input tag followed by the optional rendered text </s>
+<s> test set simple property on a short property </s>
+<s> test set simple property on a string property </s>
+<s> base for test get descriptor xxxxx series of tests </s>
+<s> make the next collection element available and loop or </s>
+<s> clean up after processing this enumeration </s>
+<s> render the end of the hyperlink </s>
+<s> release any acquired resources </s>
+<s> release any acquired resources </s>
+<s> save the associated label from the body content </s>
+<s> process the end of this tag </s>
+<s> return the label value to display in the reset button </s>
+<s> generate an html reset button </s>
+<s> release any acquired resources </s>
+<s> release any acquired resources </s>
+<s> create an appropriate select start element based on our parameters </s>
+<s> process the end of this tag </s>
+<s> release any acquired resources </s>
+<s> return the current locale for this request creating a new one if </s>
+<s> return the current locale for this request </s>
+<s> render the beginning of this form </s>
+<s> release any acquired resources </s>
+<s> release any acquired resources </s>
+<s> get the map attribute </s>
+<s> process the start tag by pushing this tags map onto the </s>
+<s> get the flush before include attribute </s>
+<s> process the end tag by including the template </s>
+<s> this method is a convenience for lt template put gt tags for </s>
+<s> reset member values for reuse </s>
+<s> save the specified exception in request scope if there is not already </s>
+<s> reset member values for reuse </s>
+<s> returns the content associated with name </s>
+<s> returns the direct attribute associated with this tag </s>
+<s> process the end tag by putting content into the enclosing </s>
+<s> is content to be printed directly is direct true </s>
+<s> reset member values for reuse </s>
+<s> returns a boolean indicating whether this tag has a body </s>
+<s> release any acquired resources </s>
+<s> release any acquired resources </s>
+<s> make the next collection element available and loop or </s>
+<s> prepares the style attributes for inclusion in the components html tag </s>
+<s> prepares the text event handlers appending them to the the given </s>
+<s> prepares the focus event handlers appending them to the the given </s>
+<s> returns the closing brace for an input element depending on xhtml status </s>
+<s> render the resulting content evaluation </s>
+<s> evaluate the rest of the page </s>
+<s> overriding method of the heart of the tag </s>
+<s> process nested lg put gt tag </s>
+<s> process nested lg put list gt tag </s>
+<s> evaluate the rest of the page </s>
+<s> method calls by nested lg put list gt tags </s>
+<s> add a new code action config code instance to the set associated </s>
+<s> add a new code form bean config code instance to the set associated </s>
+<s> do an include of specified page </s>
+<s> create a new empty context </s>
+<s> remove the specified action configuration instance </s>
+<s> remove the specified form bean configuration instance </s>
+<s> wrapper for get error empty </s>
+<s> validate the properties that have been set from this http request </s>
+<s> validate the properties that have been set from this http request </s>
+<s> add a message to the set of messages for the specified property </s>
+<s> return the set of messages related to a specific property </s>
+<s> return the set of property names for which at least one message has </s>
+<s> return the number of messages associated with the specified property </s>
+<s> initialize the debugging detail level for this application </s>
+<s> this method will be called to create new bean factory </s>
+<s> factory mapping getter </s>
+<s> proxy accessor to the list of parameter mappings </s>
+<s> adds parameter mapping to the internal list </s>
+<s> clears internal list of parameter mappings </s>
+<s> return hash map instance to be used as map of </s>
+<s> gracefully terminate use of the data source associated with this </s>
+<s> accessor to the internal list of parameter mappings </s>
+<s> search for hard parameter mapping and return it if </s>
+<s> returns count of registered parameter mappings </s>
+<s> initialize our internal message resources bundle </s>
+<s> adds bean registrationto be used in action processing </s>
+<s> return class for type specified in </s>
+<s> register a bean factory definition to the set configured for this servlet </s>
+<s> register a bean template definition to the set configured for this servlet </s>
+<s> return the bean factory definition associated with the specified </s>
+<s> return the bean template definition associated with the specified </s>
+<s> initial point to start processing </s>
+<s> p override attributes set on this tag instance </s>
+<s> p initialize the data sources for the specified module </s>
+<s> p return the code renderer type code to be used for rendering </s>
+<s> p override attributes set on this tag instance </s>
+<s> p return the code renderer type code to be used for rendering </s>
+<s> p return the code renderer type code to be used for rendering </s>
+<s> p override attributes set on this tag instance </s>
+<s> p process an attribute added event </s>
+<s> p release any allocated resources </s>
+<s> p process an attribute removed event </s>
+<s> p return the code renderer type code to be used for rendering </s>
+<s> p return the code renderer type code to be used for rendering </s>
+<s> p set the local value of this component to reflect the nested </s>
+<s> p override attributes set on this tag instance </s>
+<s> p process an attribute replaced event </s>
+<s> p return the struts action path to which this form should be submitted </s>
+<s> p process a context destroyed event </s>
+<s> p release any variables allocated during use of this tag instance </s>
+<s> p set the struts action to which this form should be submitted </s>
+<s> p process a context initialized event </s>
+<s> p return the code renderer type code to be used for rendering </s>
+<s> p create an instance of the form bean if necessary before </s>
+<s> p release resources allocated to this tag instance </s>
+<s> p return the code renderer type code to be used for rendering </s>
+<s> p override attributes set on this tag instance </s>
+<s> p create and register a code property resolver code instance </s>
+<s> p override attributes set on this tag instance </s>
+<s> p release any allocated resources </s>
+<s> p return the type of component to be created for this tag </s>
+<s> p return the code renderer type code to be used for rendering </s>
+<s> p return the text to be rendered for this component optionally </s>
+<s> p return the state of the code locale code attribute </s>
+<s> p select the response component tree that corresponds to the specified </s>
+<s> p return the state of the code xhtml code attribute </s>
+<s> p calculate and return the value to be specifed for the </s>
+<s> clear all warnings reported for this connection </s>
+<s> p initialize the application message resources for the specified </s>
+<s> make all changes made since the previous commit or rollback </s>
+<s> p return the code application code instance for this webapp </s>
+<s> create a code statement code for sending sql statements to the </s>
+<s> return the current auto commit state </s>
+<s> get the metadata regarding this connections database </s>
+<s> return this connections current transaction isolation level </s>
+<s> return the first warning reported by calls to this connection </s>
+<s> return code true code if this connection is in read only mode </s>
+<s> convert the given sql statement into the systems native sql grammer </s>
+<s> set the properties map </s>
+<s> get the properties map </s>
+<s> create a code callable statement code object for calling database </s>
+<s> initialize our internal message resources bundle </s>
+<s> create a code prepared statement code object for sending </s>
+<s> change the locale property in the session to our locale object </s>
+<s> drop all changes made since the previous commit or rollback </s>
+<s> sets this connections auto commit mode </s>
+<s> is logging set this level or higher </s>
+<s> set the catalog name for this connection </s>
+<s> set the read only mode of this connection </s>
+<s> set the transaction isolation level for this connection </s>
+<s> return exception stored in request under public key action </s>
+<s> return the framework locale object for the user session </s>
+<s> return the login timeout for this data source </s>
+<s> set the login timeout for this data source </s>
+<s> processes all attribute values which use the jstl expression evaluation </s>
+<s> close all connections that have been created by this data source </s>
+<s> open the initial connections that are appropriate for this data source </s>
+<s> log the specified message to our log writer if we have one </s>
+<s> log the specified message and exception to our log writer if we </s>
+<s> processes all attribute values which use the jstl expression evaluation </s>
+<s> processes all attribute values which use the jstl expression evaluation </s>
+<s> processes all attribute values which use the jstl expression evaluation </s>
+<s> evaluates the condition that is being tested by this particular tag </s>
+<s> processes all attribute values which use the jstl expression evaluation </s>
+<s> processes all attribute values which use the jstl expression evaluation </s>
+<s> processes all attribute values which use the jstl expression evaluation </s>
+<s> processes all attribute values which use the jstl expression evaluation </s>
+<s> locale to be used for names of months and week days </s>
+<s> time zone to be used for time formatting </s>
+<s> example for formatting </s>
+<s> set the database jdbc driver </s>
+<s> set the database connection url used if no data sorce given </s>
+<s> set the connection username used if no data sorce given </s>
+<s> set the connection password used if no data sorce given </s>
+<s> set the command name instruction to execute </s>
+<s> set the data source name </s>
+<s> set the target table </s>
+<s> set the list of flags in form of an array </s>
+<s> set the target column for the file name </s>
+<s> set the list of argument names in form of an array </s>
+<s> set the target column for the file content </s>
+<s> set the list of argument values in form of an array </s>
+<s> set the name of the procedure to execute </s>
+<s> set the parameters values in positional way </s>
+<s> set the name of the key columns for updates and deletes </s>
+<s> set the key values for updates and deletes </s>
+<s> set the column names on which dmls are to be performed </s>
+<s> set the smtp server </s>
+<s> set the sender address </s>
+<s> set the receiver list </s>
+<s> perform an update on the given table </s>
+<s> set the mail subject </s>
+<s> set the mail content </s>
+<s> perform an delete on the given table </s>
+<s> writes a map of any type </s>
+<s> writes an array of any type </s>
+<s> getter snap increment </s>
+<s> returns a new point with coordinates of given point snapped to grid </s>
+<s> open a file and load the document </s>
+<s> draws a grid spacexgrid space dotted grid using the current color </s>
+<s> removes a whole passage from the map </s>
+<s> removal of a passage caused by code remove code of the </s>
+<s> creates an independent copy of this object </s>
+<s> removal of this transition caused by removal on of the rooms connected by </s>
+<s> creates an independent copy of this object </s>
+<s> creates an independent copy of this object </s>
+<s> computes the weight of this limitation given the preferences of a user </s>
+<s> draws a route to the given hierarchy level </s>
+<s> selects the object deepest in the hierarchy but still level of the </s>
+<s> creates a xmm file with the map then it validates the file </s>
+<s> getter current bucket </s>
+<s> setter current bucket </s>
+<s> writes itself to a file in a xmm format </s>
+<s> adds a file to the project </s>
+<s> removes a file form the project </s>
+<s> paints one object on canvas </s>
+<s> paints all objects in collection on canvas </s>
+<s> returns link other than the parameter </s>
+<s> returns the x position on the floor </s>
+<s> returns y position </s>
+<s> sets x position </s>
+<s> sets y position </s>
+<s> calculates the coefficients a b c of the line between this vector and </s>
+<s> chyba nie wykorzystywane translates this coordinates in 2 d with given </s>
+<s> gets polygon that is similar to the shape of this building </s>
+<s> draws this object on a given device canvas </s>
+<s> calculates the hardness of going through this object using its </s>
+<s> returns new polygon which is this shapes polygon translated by given </s>
+<s> whether given coordinates in 2 d without floor are in polygon of this </s>
+<s> prunes the tree representing the route cutting off all of the branches </s>
+<s> deepens the branch of the tree by performing a local search just inside </s>
+<s> sets all the fields used by this object </s>
+<s> sets all the fields used by this object </s>
+<s> draws given route to given level </s>
+<s> whether two shapes overlap </s>
+<s> generates a sound description of this object </s>
+<s> generates a code string code describing this object </s>
+<s> checks for obstacles </s>
+<s> checks whether this shape contains given polygon </s>
+<s> getter bright color </s>
+<s> sets all the fields used by this object </s>
+<s> checks whether this shape intersects given polygon </s>
+<s> getter dark color </s>
+<s> finds the common parent of our object and code sibling code i </s>
+<s> inserts a new code route element code to this objects subtree </s>
+<s> sets the fields of code obj code to the same values as in </s>
+<s> removes a code route element code from this objects subtree </s>
+<s> creates an independent copy of this object </s>
+<s> deletes the whole subtree of code route elements code contained in </s>
+<s> getter on map </s>
+<s> generates a sound description of this object </s>
+<s> tries to move this object with its children </s>
+<s> adds or changes a disability </s>
+<s> sets the fields of code obj code to the same values as in </s>
+<s> computes the weight of the disability </s>
+<s> getter sound filename </s>
+<s> getter current edge </s>
+<s> getter current filler </s>
+<s> getter current passage </s>
+<s> translates this object mayby with its children if it has any without </s>
+<s> getter main object </s>
+<s> returns whether given point is in this object or not </s>
+<s> setter current edge </s>
+<s> setter bright color </s>
+<s> creates an independent copy of this object </s>
+<s> setter current filler </s>
+<s> setter current passage </s>
+<s> setter main object </s>
+<s> setter dark color </s>
+<s> checks for obstacles </s>
+<s> creates an independent copy of this object </s>
+<s> setter on map </s>
+<s> loads the profile form a given file </s>
+<s> saves the profile to a given file </s>
+<s> setter sound filename </s>
+<s> draws a grid spacexgrid space dotted grid using the current color </s>
+<s> writes the specified byte as a character to the </s>
+<s> this is the entry point method </s>
+<s> a string of 0s and 1s indicating expanded state of the tree </s>
+<s> looks for the uuid field in a list of fields </s>
+<s> expiration interval in days </s>
+<s> expiration interval in days </s>
+<s> from a given offset and length of the fields data determines what the </s>
+<s> checks the data length and for the pws3 tag </s>
+<s> finds the first character from the string of available delimiters which </s>
+<s> test of has next method of class org </s>
+<s> test of open method of class org </s>
+<s> test of close method of class org </s>
+<s> test of add nmeaevent listener method of class org </s>
+<s> test of remove nmeaevent listener method of class org </s>
+<s> test of decode nmea method of class org </s>
+<s> starts the dummy nmea provider to deliver values </s>
+<s> closes the connection </s>
+<s> implementation of the runnable interface </s>
+<s> deregister a nmea event listener </s>
+<s> this method notify every listener of the new nmeaevent </s>
+<s> this method generates a random pseydo valid nmea sequence </s>
+<s> test of to string method of class org </s>
+<s> set the in use status for the satellite with the given prn number </s>
+<s> set the in use status for all the satellites in the array </s>
+<s> set the availability status for the satellite with the given prn number </s>
+<s> set the availability status for all the satellites in the array </s>
+<s> add update new satellite data to the array </s>
+<s> get the satellite data for the requested satellite </s>
+<s> test of get altitude method of class org </s>
+<s> test of set altitude method of class org </s>
+<s> test of get velocity method of class org </s>
+<s> calculate the distance between two points </s>
+<s> test of set velocity method of class org </s>
+<s> test of get quality method of class org </s>
+<s> test of set use status method of class org </s>
+<s> test of set quality method of class org </s>
+<s> test of set use status all method of class org </s>
+<s> test of get horizontal dilution method of class org </s>
+<s> test of set available status method of class org </s>
+<s> test of set availabe status all method of class org </s>
+<s> test of set horizontal dilution method of class org </s>
+<s> test of add method of class org </s>
+<s> test of get latitude method of class org </s>
+<s> test of get method of class org </s>
+<s> test of set latitude method of class org </s>
+<s> test of get longitude method of class org </s>
+<s> test of set longitude method of class org </s>
+<s> test of get timestamp method of class org </s>
+<s> test of set timestamp method of class org </s>
+<s> test of get course method of class org </s>
+<s> test of set course method of class org </s>
+<s> test of get prn method of class org </s>
+<s> test of set prn method of class org </s>
+<s> test of get elevation method of class org </s>
+<s> test of set elevation method of class org </s>
+<s> test of get aizimuth method of class org </s>
+<s> test of set aizimuth method of class org </s>
+<s> test of get snr method of class org </s>
+<s> test of set snr method of class org </s>
+<s> test of is available method of class org </s>
+<s> test of is in use method of class org </s>
+<s> test of set available method of class org </s>
+<s> test of set in use method of class org </s>
+<s> implementation of the runnable interface </s>
+<s> test of write gps point method of class org </s>
+<s> go to the score location </s>
+<s> return true if the ls sees a black line </s>
+<s> return the forward page </s>
+<s> set login check values </s>
+<s> release any acquired resources </s>
+<s> gracefully shut down this environment servlet releasing any resources </s>
+<s> initialize this servlet including loading our initial database from </s>
+<s> registers the browser event call back with the launcher object </s>
+<s> provides access the browsers map for extending classes </s>
+<s> returns true if the browser is available </s>
+<s> launches a browser preferences dialog and sets the system </s>
+<s> returns a list of browsers to be used for browser </s>
+<s> use a different index as the spell checker index or re open </s>
+<s> sets the accuracy 0 lt min score lt 1 default 0 </s>
+<s> removes all terms from the spell check index </s>
+<s> closes the internal index reader </s>
+<s> builds a k gram index </s>
+<s> adds word to inverted k gram index </s>
+<s> return true if we have a record waiting to be parsed </s>
+<s> parse and return the waiting record pre reading more rows as necessary </s>
+<s> this is used internally to the class for getting back a </s>
+<s> removes all the given keys from this counter </s>
+<s> compares two code mutable double code objects numerically </s>
+<s> returns true if the priority queue is non empty </s>
+<s> returns the element in the queue with highest priority and pops it from </s>
+<s> sets the count for a particular key value pair </s>
+<s> returns the highest priority element in the queue but does not pop it </s>
+<s> increments the count for a particular key value pair </s>
+<s> gets the priority of the highest priority element of the queue </s>
+<s> gets the count of the given key value entry or zero if that </s>
+<s> returns whether the counter contains the given key </s>
+<s> returns the total of all counts in sub counters </s>
+<s> adds a key to the queue with the given priority </s>
+<s> returns the total number of key value entries in the </s>
+<s> returns a representation of the queue in decreasing priority order </s>
+<s> set the count for the given key clobbering any previous count </s>
+<s> returns a representation of the queue in decreasing priority order </s>
+<s> the number of keys in this counter map not the number of </s>
+<s> increment a keys count by the given amount </s>
+<s> returns a counter whose keys are the elements in this priority queue and </s>
+<s> increment each element in a given collection by a given amount </s>
+<s> finds the total of all counts in the counter </s>
+<s> finds the key with maximum count </s>
+<s> returns a string representation with the keys ordered by decreasing </s>
+<s> returns a string representation which includes no more than the </s>
+<s> parses a single message pointed to by file name </s>
+<s> returns the chi squared calculation per formula 13 </s>
+<s> logs the packet timestamp </s>
+<s> unregister with the registrar server </s>
+<s> inits the local sdp no media spec </s>
+<s> waits for an incoming call acting as uas </s>
+<s> closes an ongoing incoming or pending call </s>
+<s> closes an ongoing incoming or pending call </s>
+<s> redirects an incoming call </s>
+<s> close the media application </s>
+<s> callback function called when arriving a new re invite method </s>
+<s> callback function that may be overloaded extended </s>
+<s> callback function called when arriving an ack method call confirmed </s>
+<s> callback function called when arriving a 2xx re invite modify accepted </s>
+<s> callback function called when arriving a 4xx re invite modify failure </s>
+<s> callback function called when arriving a 4xx call failure </s>
+<s> callback function called when arriving a 3xx call redirection </s>
+<s> callback function that may be overloaded extended </s>
+<s> callback function called when arriving a bye request </s>
+<s> callback function called when arriving a response after a bye request </s>
+<s> callback function called when the invite expires </s>
+<s> callback function called when arriving a new refer method transfer </s>
+<s> callback function called when a call transfer is accepted </s>
+<s> callback function called when a call transfer is refused </s>
+<s> callback function called when a call transfer is successfully completed </s>
+<s> callback function called when a call transfer is not sucessfully </s>
+<s> returns whether this object is a </s>
+<s> returns whether this object is a </s>
+<s> gets the value of a </s>
+<s> gets the value of a </s>
+<s> returns the value of this </s>
+<s> returns whether this object is a </s>
+<s> returns whether this object is </s>
+<s> returns the value of this </s>
+<s> returns the first element of this quadruple </s>
+<s> returns the first element of this quadruple </s>
+<s> returns the value of this </s>
+<s> returns the third element of this quadruple </s>
+<s> returns the fourth element of this quadruple </s>
+<s> returns the single element of this tuple </s>
+<s> generates the html page and returns it as a string </s>
+<s> stop the applet and disconnect </s>
+<s> paint the current screen using the backing store image </s>
+<s> file path content </s>
+<s> old file new file </s>
+<s> shows the license </s>
+<s> populates the view with all the checklists </s>
+<s> opens the checklist database </s>
+<s> populates the fields with the data </s>
+<s> retrieves all the checklists </s>
+<s> creates a checklist </s>
+<s> returns the specified checklist </s>
+<s> creates a copy of the selected checklist </s>
+<s> creates a checklist with the specified name </s>
+<s> updates the specified checklist </s>
+<s> deletes the specified checklist </s>
+<s> retrieves the items for the specified checklist </s>
+<s> deletes the items for the specified checklist </s>
+<s> retrieves the specified checklist item </s>
+<s> creates a checklist item for the specified list </s>
+<s> updates the specified checklist item </s>
+<s> creates a checklist item </s>
+<s> deletes a specific item </s>
+<s> creates a copy of the selected checklistitem </s>
+<s> make this screen visible on the display and register the </s>
+<s> disables commands and runs target in a separate thread </s>
+<s> returns an empty range set for now </s>
+<s> event fired by the scheduler host when a successful meeting has been scheduled </s>
+<s> combine all the times the host is occupied with the </s>
+<s> true if any part of this range overlaps with the given range </s>
+<s> combine this range with another </s>
+<s> intersect the other range with this </s>
+<s> traditional compare to function </s>
+<s> unions this range set with another </s>
+<s> return true iff the supplied ranges left and right values are identical </s>
+<s> find the subset of these ranges in the specified range </s>
+<s> if there are scores for the current turn throw them out </s>
+<s> method that is backed to a submit button of a form </s>
+<s> will be called on 64bit swt </s>
+<s> table editor example snippet edit a cell in a table in place fancy </s>
+<s> sets the fields of the object in the </s>
+<s> reads the fields of the object from the </s>
+<s> perform the unmarshall of the string contained </s>
+<s> performs the marshalling of the single field </s>
+<s> set the sector data for a single sector </s>
+<s> change side of track and sectors </s>
+<s> read a packed unsigned long from an array of bytes </s>
+<s> read a packed unsigned int from an array of bytes </s>
+<s> skip a packed number in a buffer </s>
+<s> read a packed signed long from an array of bytes </s>
+<s> read a packed signed int from an array of bytes </s>
+<s> set or reset a drive </s>
+<s> return indexed drive </s>
+<s> set forced head to use for given drive </s>
+<s> return forced head </s>
+<s> set forced head to use </s>
+<s> return forced head </s>
+<s> dereference any allocated resources </s>
+<s> get the sample frequency to use when generating output </s>
+<s> write a 32 bit value to the output </s>
+<s> set the current position in the output buffer </s>
+<s> write a 16 bit value to the output </s>
+<s> return the current position in the output buffer </s>
+<s> write header content to the output </s>
+<s> reset the output buffer </s>
+<s> sets the sign of the wave </s>
+<s> sets the sign of the wave to lo </s>
+<s> toggles the sign of the wave </s>
+<s> is the wave sign currently low amplitude </s>
+<s> generate wave data for len samples </s>
+<s> waits for a number of milliseconds </s>
+<s> dereference any allocated resources </s>
+<s> determine if character is whitespace </s>
+<s> disposes the plugins color manager for syntax highlighting </s>
+<s> returns the plugins color manager for syntax highlighting </s>
+<s> returns the lpcpartition scanner for the plugin if there is </s>
+<s> returns the singular lpccode scanner for the plugin creating it </s>
+<s> create meta ruleset </s>
+<s> create meta ruleset </s>
+<s> returns the item label method rule </s>
+<s> returns the suggested items method rule </s>
+<s> this method validates an entity during save operation </s>
+<s> this method validates a field during save operation </s>
+<s> convenience method for unit tests </s>
+<s> servlet api convenience method </s>
+<s> servlet api convenience method </s>
+<s> servlet api convenience method </s>
+<s> servlet api convenience method </s>
+<s> servlet api convenience method </s>
+<s> returns b hbmtemplate b </s>
+<s> instantiates a org </s>
+<s> convenience method to get the configuration hash map from the servlet </s>
+<s> returns b gen core b </s>
+<s> returns b gen web b </s>
+<s> returns b gen b </s>
+<s> instantiates a org </s>
+<s> sets a spring bean to a ws operation </s>
+<s> sets a bean to a ws operation </s>
+<s> sets a bean to a ws operation </s>
+<s> extending hibernate exporter only to access the maven project </s>
+<s> extending hibernate exporter only to access the maven project </s>
+<s> sets a bean to a ws operation </s>
+<s> returns a class object about a classpath name </s>
+<s> converts an array to a list </s>
+<s> gets a bean from a ws operation </s>
+<s> executes the plugin in an isolated classloader </s>
+<s> returns the an isolated classloader </s>
+<s> returns the parsed goal to the exporter </s>
+<s> this method will remove files from the source directory </s>
+<s> this method initializes this </s>
+<s> this method initializes j content pane </s>
+<s> this method initializes this </s>
+<s> this method initializes j content pane </s>
+<s> this method initializes j combo box2 </s>
+<s> this method initializes j combo box3 </s>
+<s> this method initializes j button21 </s>
+<s> this method initializes this </s>
+<s> this method initializes this </s>
+<s> this method initializes j panel2 </s>
+<s> this method initializes j combo box </s>
+<s> this method initializes b salvar </s>
+<s> this method initializes b cancelar </s>
+<s> this method initializes j combo box1 </s>
+<s> preenche combo box produto </s>
+<s> this method initializes j content pane </s>
+<s> this method initializes this </s>
+<s> this method initializes j panel </s>
+<s> this method initializes j content pane </s>
+<s> this method initializes tf descricao </s>
+<s> this method initializes j panel1 </s>
+<s> this method initializes j content pane </s>
+<s> this method initializes tf data </s>
+<s> this method initializes tf codigo barras </s>
+<s> this method initializes cb sessao </s>
+<s> this method initializes b salvar </s>
+<s> this method initializes cb cnpj </s>
+<s> this method initializes cb filtro </s>
+<s> this method initializes cb razao social </s>
+<s> this method initializes tf localizar </s>
+<s> this method initializes j button2 </s>
+<s> this method initializes b novo </s>
+<s> this method initializes cb descricao </s>
+<s> this method initializes j scroll pane </s>
+<s> this method initializes ta obs </s>
+<s> this method initializes j button2 </s>
+<s> this method initializes b fechar </s>
+<s> this method initializes j button2 </s>
+<s> this method initializes tf quantidade </s>
+<s> this method initializes tf data </s>
+<s> this method initializes this </s>
+<s> this method initializes tf validade </s>
+<s> this method initializes this </s>
+<s> this method initializes this </s>
+<s> this method initializes j content pane </s>
+<s> this method initializes j jtool bar bar </s>
+<s> this method initializes j panel </s>
+<s> this method initializes j panel3 </s>
+<s> this method initializes j jmenu bar </s>
+<s> this method initializes j menu </s>
+<s> this method initializes b salvar </s>
+<s> this method initializes j menu item </s>
+<s> preenche combo box filtro </s>
+<s> this method initializes this </s>
+<s> this method initializes j menu1 </s>
+<s> this method initializes dtp </s>
+<s> this method initializes j menu item2 </s>
+<s> this method initializes j menu2 </s>
+<s> this method initializes j text field </s>
+<s> this method initializes j password field </s>
+<s> this method initializes j menu3 </s>
+<s> this method initializes j button </s>
+<s> this method initializes tf data </s>
+<s> this method initializes j menu item1 </s>
+<s> this method initializes j button1 </s>
+<s> this method initializes j menu item3 </s>
+<s> this method initializes this </s>
+<s> this method initializes j content pane </s>
+<s> this method initializes this </s>
+<s> this method initializes j panel1 </s>
+<s> this method initializes j panel1 </s>
+<s> this method initializes tf descricao </s>
+<s> this method initializes this </s>
+<s> this method initializes b salvar </s>
+<s> this method initializes b cancelar </s>
+<s> this method initializes this </s>
+<s> this method initializes j panel1 </s>
+<s> this method initializes b visualizar </s>
+<s> this method initializes cb sessao </s>
+<s> this method initializes tf custo </s>
+<s> this method initializes b cancelar </s>
+<s> this method initializes tf lucro </s>
+<s> this method initializes tf venda </s>
+<s> this method initializes tf custo atual </s>
+<s> this method initializes j panel3 </s>
+<s> this method initializes b novo </s>
+<s> this method initializes b salvar </s>
+<s> this method initializes tf custo novo </s>
+<s> this method initializes j button2 </s>
+<s> recebe uma string e transforma para date </s>
+<s> this method initializes tf preco medio </s>
+<s> initializes brokers services </s>
+<s> starts the broker activity </s>
+<s> sends a single command to the client </s>
+<s> gets the local broker communication port </s>
+<s> sets the default broker config </s>
+<s> executes the remote task </s>
+<s> gets the files source id </s>
+<s> receives a single command from the client </s>
+<s> returns the id of the task executions result file </s>
+<s> scans the files directory looking for data and task files </s>
+<s> registers information about new file </s>
+<s> creates the remote task using the file name and file id provided </s>
+<s> sets up the default values of the properties </s>
+<s> removes the information about the specified files source </s>
+<s> creates node commands set </s>
+<s> sets up the gftp server </s>
+<s> executes the specified task </s>
+<s> loggs the client out and closes the connection </s>
+<s> returns the id of the specified data file </s>
+<s> adds new entry to the data table </s>
+<s> logs the node off and closes the connection </s>
+<s> sets the default properties values </s>
+<s> implementation of the gettask node command </s>
+<s> setups the inputs and output passed to the task </s>
+<s> implementation of the runnable interface </s>
+<s> implementation of the done node command </s>
+<s> stops the task execution </s>
+<s> gets the data ids list </s>
+<s> adds the specified id to the data ids list </s>
+<s> gets the task jar files id </s>
+<s> gets the task id </s>
+<s> gets the task result files id </s>
+<s> registers the files available to the node on the broker </s>
+<s> sets current performed tasks state as done </s>
+<s> sets the currently performed task to the specified one </s>
+<s> gets the id of the task currently assigned to the node </s>
+<s> determines if there is a task assigned to the node </s>
+<s> implementation of the getresult client command </s>
+<s> calculates the rough time after whitch the next task assigned to the node </s>
+<s> saves the node config to the specified file </s>
+<s> implementation of the runtask client command </s>
+<s> returns the list of nodes sorted by the next task finish time </s>
+<s> returns the list of available tasks sorted by priority and number of </s>
+<s> closes down all of the tasks input streams </s>
+<s> adds the specified task to this tasks children list </s>
+<s> adds the specified task to this tasks parents list </s>
+<s> returns the id of the tasks result file </s>
+<s> returns the id of this task </s>
+<s> gets the task result file name </s>
+<s> increases the task priority by one </s>
+<s> returns the list of tasks parents </s>
+<s> returns the id of tasks result file </s>
+<s> looks for the specified file in files path </s>
+<s> returns the description of this task </s>
+<s> sends the results to the broker </s>
+<s> adds a commiter of this task </s>
+<s> returns the number of commiters of this task </s>
+<s> disconnects from the server </s>
+<s> tries to find command matching to specified string </s>
+<s> matches the specified sting against command pattern </s>
+<s> adds specified command to the set </s>
+<s> gets the value of specified parameter </s>
+<s> returns number of parameters </s>
+<s> checks if the specified file is available to the node </s>
+<s> sends the specified command to the broker </s>
+<s> loads config from specified input stream </s>
+<s> returns the string received from the broker </s>
+<s> gets the value of string property </s>
+<s> receives a list of resource locations from the broker </s>
+<s> gets the value of integer property </s>
+<s> closes the connection </s>
+<s> loads the config from specified file </s>
+<s> converts the xml document to table of properties </s>
+<s> waits for the connection </s>
+<s> sets the value of string property </s>
+<s> implementation of the runnable interface </s>
+<s> sets the value of integer property </s>
+<s> reports the specified cpu is unavailable to the grid network </s>
+<s> returns the string representation of the id in format </s>
+<s> removes the specified property from properties table </s>
+<s> getter for the naxe code block property </s>
+<s> overrides the objects equals method </s>
+<s> getter for the returned value property </s>
+<s> gets the value of id property </s>
+<s> overrides the objects hash code method </s>
+<s> setter for the next code block property </s>
+<s> reads the contents of the config file </s>
+<s> sets the value of id property </s>
+<s> setter for the returned value property </s>
+<s> returns the task class name read from the config </s>
+<s> returns true if the task is completed </s>
+<s> dumps the current task state to the specified file </s>
+<s> reads the tasks state class name read from the config </s>
+<s> setter for is finished property </s>
+<s> reads the task state from the specified file </s>
+<s> sets the input and output streams </s>
+<s> gets the gftp port of the remote host </s>
+<s> getter for output field </s>
+<s> returns the string representation of file resource info </s>
+<s> checks if the specified file exists in the local filesystem </s>
+<s> adds the specified file to the dictionary </s>
+<s> returns the files table </s>
+<s> converst the files table to a xml document </s>
+<s> saves the configuration to the file from which it was previously loaded </s>
+<s> implementation of the logout command </s>
+<s> implementation of the regnewfile command </s>
+<s> implementation of the regfile command </s>
+<s> implementation of the regftp command </s>
+<s> implementation of the whereis command </s>
+<s> implementation of the newnode command </s>
+<s> implementation of the newclient command </s>
+<s> implementation of the loginnode command </s>
+<s> implementation of the loginclient command </s>
+<s> gets a shared dialog controller </s>
+<s> gets a shared sound player </s>
+<s> p appends to the code builder code the code compare to object code </s>
+<s> p appends to the code builder code the comparison of </s>
+<s> appends to the code builder code the comparison of </s>
+<s> appends to the code builder code the comparison of </s>
+<s> appends to the code builder code the comparison of </s>
+<s> appends to the code builder code the comparison of </s>
+<s> appends to the code builder code the comparison of </s>
+<s> p appends to the code builder code the comparison of </s>
+<s> p appends to the code builder code the comparison of </s>
+<s> appends to the code builder code the comparison of </s>
+<s> p appends to the code builder code the deep comparison of </s>
+<s> p appends to the code builder code the deep comparison of </s>
+<s> p appends to the code builder code the deep comparison of </s>
+<s> p appends to the code builder code the deep comparison of </s>
+<s> p appends to the code builder code the deep comparison of </s>
+<s> p appends to the code builder code the deep comparison of </s>
+<s> p appends to the code builder code the deep comparison of </s>
+<s> p appends to the code builder code the deep comparison of </s>
+<s> p appends to the code builder code the deep comparison of </s>
+<s> returns a negative integer a positive integer or zero as </s>
+<s> returns a negative integer a positive integer or zero as </s>
+<s> get an instance of the class clase </s>
+<s> initialize the component </s>
+<s> reload the info that should be showing from the config file </s>
+<s> this method only will accept instance of mp3 </s>
+<s> devuelve el valor asociado a esa clave </s>
+<s> p generates a string representing all restrictions passed as parameters </s>
+<s> this method will reload the cache from the mp3 file </s>
+<s> eliminate the duplicated files </s>
+<s> sets the component at the specified code index code of this </s>
+<s> elimates duplicated files by comparing its basename </s>
+<s> inserts the specified object as a component in this list at the </s>
+<s> adds the specified component to the end of this list </s>
+<s> removes the first lowest indexed occurrence of the argument </s>
+<s> total number of files of that directory </s>
+<s> deletes the components at the specified range of indexes </s>
+<s> adds a component to the list </s>
+<s> changes the font of the component and all his subcomponents </s>
+<s> attemps to stop the service </s>
+<s> a synchronous search using the searching method interface provided </s>
+<s> gets the searching method from the configuration and invokes the </s>
+<s> creates a new thread to start the search and returns the created searching </s>
+<s> gets the name of the searching method from the configuration and calls </s>
+<s> creates the plugin menu </s>
+<s> metodo que retorna o fax chefe </s>
+<s> this is the entry point method </s>
+<s> creates the field editors </s>
+<s> this is a callback that will allow us </s>
+<s> passing the focus request to the viewers control </s>
+<s> this is a callback that will allow us </s>
+<s> reload image from a file </s>
+<s> this method is a convenience method for operations when a function is found </s>
+<s> this method is a convenience method for when constants are detected </s>
+<s> reports whether name is a valid mappable name </s>
+<s> finds middle value </s>
+<s> executes while loop </s>
+<s> determine info based on context of term to be returned </s>
+<s> find most common value </s>
+<s> executes conditional statement </s>
+<s> reads the value of a variable in varfile or fctfile </s>
+<s> processes a command given the command and the script object in which this </s>
+<s> returns whether this statement is a declaration statement e </s>
+<s> registers the variable with the type and performs assignment if any </s>
+<s> returns whether this command begins with a keyword precondition command </s>
+<s> prefered way to change function </s>
+<s> figures out the parameter junk </s>
+<s> run the compiled script </s>
+<s> returns whether this command is an assignment regex tests for a variable </s>
+<s> inserts value at specified lcoation </s>
+<s> inserts list of elements in specified location </s>
+<s> asks for the value with the name var of the type type </s>
+<s> expands the array to twice the arrays previous size or by min elements </s>
+<s> finds first occurrance of value starting from the first element </s>
+<s> removes value at index </s>
+<s> removes the first instance of value from this list </s>
+<s> removes nested factors terms and includes their elements as elements of terms </s>
+<s> term is simple term and contains same variable as this </s>
+<s> moves all coefficients and constants to factors term coefficient </s>
+<s> simplify1 insures that there are no nested parth terms in the parth terms </s>
+<s> simplify2 combines all terms which can be added and represented as one </s>
+<s> insert or remove memory space into this stack </s>
+<s> moves the current pointer forward one </s>
+<s> moves the current pointer back one </s>
+<s> displays the contents of history in the display area with most recent </s>
+<s> looks for f in map returns 1 if not found </s>
+<s> attempts to remove t from fcts and reports whether it did or not </s>
+<s> centers the screen on the given point maintaining scale and step </s>
+<s> resets the x maximum and minimum so that the x scale is equivalent </s>
+<s> attempts to remove t from fcts and reports whether it did or not </s>
+<s> pushes the characters into the </s>
+<s> returns the character offset of the beginning of this event </s>
+<s> returns the character offset of the end of this event </s>
+<s> font color red experimental may change in next release font br </s>
+<s> pushes an input source onto the current entity stack </s>
+<s> sets the document handler </s>
+<s> get declared prefix count </s>
+<s> synthesize namespace binding </s>
+<s> cleans up used resources </s>
+<s> consume elements that have been buffered like body html that are first consumed </s>
+<s> returns true if this element can close the specified element </s>
+<s> returns true if the objects are equal </s>
+<s> provides a simple representation to make debugging easier </s>
+<s> see a href http sourceforge </s>
+<s> see a href http sourceforge </s>
+<s> tests handling of xml declaration when used with reader </s>
+<s> indicates if the provided element is an accepted parent of current element </s>
+<s> regression test for bug 2933989 </s>
+<s> adds an element to list resizing if necessary </s>
+<s> prints collected characters </s>
+<s> generates a missing body which creates missing head when needed </s>
+<s> store the html augmentations for the given augs in temporary variables </s>
+<s> store the html augmentations for the given augs in temporary variables </s>
+<s> print out the html augmentation values for the current block of </s>
+<s> returns the current line number </s>
+<s> start cdata section </s>
+<s> returns the current column number </s>
+<s> returns the xml version </s>
+<s> returns the character offset </s>
+<s> simple representation to make debugging easier </s>
+<s> simple representation to make debugging easier </s>
+<s> notifies the tag balancing listener if any of an ignored end element </s>
+<s> reads a single character </s>
+<s> gets the current character and moves to next one </s>
+<s> reads a single character </s>
+<s> prints the contents of the character buffer to standard out </s>
+<s> goes back cancelling the effect of the previous read call </s>
+<s> removes all spaces for the string remember jdk 1 </s>
+<s> adds location augmentations to the specified attribute </s>
+<s> returns the character offset of the beginning of this event </s>
+<s> returns the character offset of the end of this event </s>
+<s> returns a string representation of this object </s>
+<s> reads a single character preserving the old buffer content </s>
+<s> add new maximal match if its length equals length of max match </s>
+<s> compare length of max match in descending order </s>
+<s> return element from specified position </s>
+<s> return object stored in inner symbol </s>
+<s> return an element order </s>
+<s> initiate deleted with appropriate elements </s>
+<s> compare element values when o is of class ordered lex element </s>
+<s> compare stored reversed path using java </s>
+<s> compare with other ordered reverse path but only within selected parts </s>
+<s> lexicographically compare paths </s>
+<s> compare two paths lexicographically starting with given directory direction to file name </s>
+<s> deletes the temporary directory and all its content </s>
+<s> lexicographically compare paths when argument object is ordered reverse path </s>
+<s> delete the directory and its content </s>
+<s> return reverse path </s>
+<s> compare order numbers of this and argument object </s>
+<s> return normal path </s>
+<s> set the order member </s>
+<s> test of get next method of class rkr gst </s>
+<s> test of get first method of class rkr gst </s>
+<s> test of length of longest match method of class rkr gst </s>
+<s> tests order of queues </s>
+<s> test of hash code method of class rkr gst </s>
+<s> test of equals method of class rkr gst </s>
+<s> test of get next method of class rkr gst </s>
+<s> test of start at first unmarked token method of class rkr gst </s>
+<s> test of get first method of class rkr gst </s>
+<s> test of set marked method of class rkr gst </s>
+<s> test of no of elements method of class rkr gst </s>
+<s> test of offer method of class rkr gst </s>
+<s> test of compare to method of class rkr gst </s>
+<s> test of equals method of class rkr gst </s>
+<s> test of get length of max match method of class rkr gst </s>
+<s> test of element type method of class rkr gst </s>
+<s> test of element order method of class rkr gst </s>
+<s> test of distance to next marked or end method of class rkr gst </s>
+<s> test of maximal element type value method of class rkr gst </s>
+<s> notification of the image producer completing the source image </s>
+<s> notification of the dimensions of the source image </s>
+<s> notification of load hints that may be useful </s>
+<s> notification of a bunch of pixel values in byte form </s>
+<s> main entry point </s>
+<s> notification of a bunch of pixel values as ints </s>
+<s> notification of the properties of the image to use </s>
+<s> fetch the image </s>
+<s> convenience method used to create the output image based on the data </s>
+<s> explodes application to temp dir </s>
+<s> test the save method </s>
+<s> return length of the vector </s>
+<s> add a vector to the current one </s>
+<s> getter of position </s>
+<s> getter of velocity </s>
+<s> getter of acceleration </s>
+<s> getter of active radius </s>
+<s> setter of position </s>
+<s> setter of position </s>
+<s> setter of acceleration </s>
+<s> setter of active radius </s>
+<s> add a vehicle to the list of neighbors </s>
+<s> update the position and velocity of the vehicle after one second </s>
+<s> method that invoked when user logout from application </s>
+<s> method that invoked when user want to go to the registration screen </s>
+<s> method that invoked when new conversation is started </s>
+<s> method that invoked to retrieve direct link to image to represent in ui </s>
+<s> this method invoked after the user want to see all her shelves </s>
+<s> this method invoked after the user want to see all her albums </s>
+<s> this method invoked after the user want to see all her images </s>
+<s> this method invoked after the user want to interrupt edit shelf process </s>
+<s> this method used to transform one path to another </s>
+<s> this method used to get reference to the file with the absolute path </s>
+<s> convenience method to show specified page with help info in modal panel </s>
+<s> convenience method invoked after user add avatar and outject avatar to conversation </s>
+<s> convenience method to determine is there need to render application help system </s>
+<s> method used to construct criteria string to represent this string in ui </s>
+<s> method that perform search by particular phrase </s>
+<s> this method invoked after the user want to interrupt edit user process </s>
+<s> method invoked when user select or unselect search option </s>
+<s> this method invoked after the user want to interrupt edit image process </s>
+<s> this method invoked after the user want to interrupt edit album process </s>
+<s> this method invoked after the user want to interrupt registration process </s>
+<s> this utility method used by custom datascroller to determine images to show </s>
+<s> this utility method used to determine if the logged user have any shelves </s>
+<s> this utility method used to determine if the logged user have any albums </s>
+<s> this utility method used to determine if the specified user can be edited </s>
+<s> getter for the current security resolver </s>
+<s> get the business object definition </s>
+<s> get the attribute definition </s>
+<s> get the business object data </s>
+<s> set the last update </s>
+<s> get a new or the current connection </s>
+<s> create a new connection </s>
+<s> commit the transaction </s>
+<s> get the attribute data </s>
+<s> commit the transaction and close if required </s>
+<s> commit the transaction if necessary and close the connection </s>
+<s> roll back the transaction </s>
+<s> get the initial context </s>
+<s> load the bundle </s>
+<s> create update customer </s>
+<s> store update plant </s>
+<s> create update rule </s>
+<s> store update program </s>
+<s> remove a plant </s>
+<s> create or update the screen definition object </s>
+<s> get the next id </s>
+<s> create update profile </s>
+<s> delete relationship between profile and functionality </s>
+<s> create update user </s>
+<s> to create or update screen fields </s>
+<s> add allowed programs just to the corporate user </s>
+<s> this method must be override on the children classes </s>
+<s> return the value of the hashmap cast to string </s>
+<s> retrieve the default value constraint attribute </s>
+<s> retrieve the max length constraint attribute </s>
+<s> retrieve the max length constraint attribute </s>
+<s> retrieve the size constraint attribute </s>
+<s> add default buttons to the screen </s>
+<s> get the stack trace generated </s>
+<s> retrieve the label field constraint attribute </s>
+<s> write the stack trace from an exception into a writer </s>
+<s> retrieve the date pattern constraint attribute </s>
+<s> retrieve the renderer type constraint attribute </s>
+<s> accessing database to get profiles </s>
+<s> creating new profile </s>
+<s> load the menu tree </s>
+<s> verify if the session attribute user menu is exist </s>
+<s> verify if the user menu is clicked </s>
+<s> create new panel group </s>
+<s> shutdown the hot deployer component and remove it from the servlet </s>
+<s> create the components </s>
+<s> verify if the user is logged </s>
+<s> builds the dynamic data table </s>
+<s> do the logout to select the plant program </s>
+<s> do the log off and exit the application </s>
+<s> get user by login name </s>
+<s> this method will choose between create or update method </s>
+<s> create update customer </s>
+<s> get program by id </s>
+<s> store update program </s>
+<s> get plant by id </s>
+<s> store update plant </s>
+<s> remove a plant </s>
+<s> get profile by id </s>
+<s> set the size of the field </s>
+<s> getter for property preferences </s>
+<s> getter for property prime </s>
+<s> setter for property prime </s>
+<s> getter for property current weight </s>
+<s> setter for property current weight </s>
+<s> getter for property credit card </s>
+<s> setter for property credit card </s>
+<s> getter for property zipcode </s>
+<s> setter for property zipcode </s>
+<s> getter for property age </s>
+<s> getter for property status </s>
+<s> setter for property status </s>
+<s> test temporary files </s>
+<s> compares the value of two enumerated type objects </s>
+<s> get the next sequence using an oracle thread safe sequence </s>
+<s> this is a generic sequence id generator that is based on a database </s>
+<s> example of setter method for setter dependency injection </s>
+<s> method inserts a new code owner code </s>
+<s> method inserts a new pet </s>
+<s> method loads owners plus pets and visits if not already loaded </s>
+<s> method updates an existing pet </s>
+<s> method updates an existing owner </s>
+<s> method inserts a new code visit code </s>
+<s> method loads an owner plus pets and visits if not already loaded </s>
+<s> return the pet with the given name </s>
+<s> return the pet with the given name </s>
+<s> custom handler for vets display </s>
+<s> custom handler for owner display </s>
+<s> method to retrieve the code visit code data for a code pet code </s>
+<s> method to retrieve the code pet code and code visit code </s>
+<s> method to retrieve a code list code of code owner code s </s>
+<s> method to update an code owner code s data </s>
+<s> method to insert a new code pet code </s>
+<s> method to update an code pet code s data </s>
+<s> method to insert a new code visit code </s>
+<s> adds an observation to the total memory time series </s>
+<s> adds an observation to the free memory time series </s>
+<s> getter for property random percentage </s>
+<s> getter for property poll interval </s>
+<s> handles the action event generated as a result of clicking on a </s>
+<s> set the lob handler to use for blob clob access </s>
+<s> p delete any customers who have been checked from the list </s>
+<s> tell the dispatcher to close the open connections and stop the event loop </s>
+<s> this method returns the number of parameters of a given operation </s>
+<s> factory method to instantiate a request </s>
+<s> factory method to instantiate a multi request </s>
+<s> appends the input string to the initialization string </s>
+<s> prepends the input string to the initialization string </s>
+<s> utility function to convert a simple string into its hex encoded </s>
+<s> utility function to convert a hex encoded string back to a normal </s>
+<s> utility function to compute the exact mass of a compound via </s>
+<s> utility function to correctly format the counter used for record ids </s>
+<s> t c g </s>
+<s> r h x g g g l w </s>
+<s> w w u rinning </s>
+<s> w w u completed </s>
+<s> t u b g t r x </s>
+<s> w sql i q n j s </s>
+<s> w sql i x v n j s </s>
+<s> e l f b n </s>
+<s> db t o z x g </s>
+<s> annotation g p x </s>
+<s> molfile g p x </s>
+<s> profile g p x </s>
+<s> gif g p x </s>
+<s> gifsmall g p x </s>
+<s> giflarge g p x </s>
+<s> v c t o url </s>
+<s> mass bank f b n g p x </s>
+<s> batch service t o </s>
+<s> advanced search t o </s>
+<s> smtp a h x i batch service p j </s>
+<s> a g t c g </s>
+<s> m i batch service p j </s>
+<s> t o z b g </s>
+<s> from a h x i batch service p j </s>
+<s> z b g </s>
+<s> multi dispatcher o </s>
+<s> x e x </s>
+<s> s n f </s>
+<s> s n f </s>
+<s> cgi w b v </s>
+<s> b s n </s>
+<s> s n i t o </s>
+<s> v j t </s>
+<s> n g r h t o </s>
+<s> u g r h t o </s>
+<s> u g r h t o </s>
+<s> r h t o </s>
+<s> r h t o </s>
+<s> e x u c x g </s>
+<s> r h c f b n x w </s>
+<s> r h g g l w </s>
+<s> a n v c x g </s>
+<s> i s n </s>
+<s> search page i u w f n g </s>
+<s> x y n g </s>
+<s> x y n g </s>
+<s> s n f </s>
+<s> color e u f </s>
+<s> r h x g e u g </s>
+<s> r h y w </s>
+<s> r h x g p b v a b v g p </s>
+<s> f t h g u f b n </s>
+<s> e x u c x g </s>
+<s> a n v c x g </s>
+<s> e x c o w b g c x g </s>
+<s> tolerance l x </s>
+<s> cutoff threshold l x m f </s>
+<s> cutoff threshold l x </s>
+<s> e x v x c x g </s>
+<s> precursor m z l x </s>
+<s> a n v c x g </s>
+<s> a c e p l </s>
+<s> a n v c x g </s>
+<s> makes a wiggly horizontal path </s>
+<s> add an object to the cache </s>
+<s> get an object out of the cache </s>
+<s> flushes the cache </s>
+<s> the admin to set </s>
+<s> returns the cd name </s>
+<s> the cd name to set </s>
+<s> returns the gubun </s>
+<s> the gubun to set </s>
+<s> the object id to set </s>
+<s> returns the law </s>
+<s> the law to set </s>
+<s> returns the content order </s>
+<s> the content order to set </s>
+<s> the dept name to set </s>
+<s> the grade to set </s>
+<s> returns the mod date </s>
+<s> the mod date to set </s>
+<s> the passwd to set </s>
+<s> returns the reg date </s>
+<s> the reg date to set </s>
+<s> returns the reg id </s>
+<s> the reg id to set </s>
+<s> upis def entity </s>
+<s> upis def entity </s>
+<s> convenience method to get the user from the session </s>
+<s> get a jdbc connection </s>
+<s> initialize the connection provider </s>
+<s> sets the prefs attribute of the connection provider object </s>
+<s> gets the prefs attribute of the connection provider object </s>
+<s> get a jdbc connection </s>
+<s> get a jdbc connection </s>
+<s> sets the connection pool url attribute of the connection provider prefs </s>
+<s> get a connection object from the underlying connection provider object </s>
+<s> gets the connection pool url attribute of the connection provider prefs </s>
+<s> sets the connection provider class attribute of the connection provider prefs </s>
+<s> gets the connection provider class attribute of the connection provider prefs </s>
+<s> sets the connection pool custom properties </s>
+<s> returns the connection pool custom properties </s>
+<s> gets the generated button tag </s>
+<s> renders the generated button tag into string buffer </s>
+<s> read filter condition from body </s>
+<s> reset tag state </s>
+<s> initialize environment and process body only if this condition is the </s>
+<s> comparison using condition id field </s>
+<s> add a value to the values list </s>
+<s> render output called from parent db filter condition obj </s>
+<s> initialize classs attributes </s>
+<s> philip grunikiewicz 2001 05 14 if user has specified a date format use </s>
+<s> this method is a hookup for embedded data tags which can assign the </s>
+<s> reset tag state </s>
+<s> gets the count as int </s>
+<s> for use from parent element radio select etc </s>
+<s> insert the methods description here </s>
+<s> render the specified error messages if there are any </s>
+<s> close only statements of this connection do not close the connection </s>
+<s> setter for property js calendar date format </s>
+<s> getter for property js calendar date format </s>
+<s> setter for property use js calendar </s>
+<s> getter for property use js calendar </s>
+<s> sets the key to dest pos </s>
+<s> returns the key to dest pos </s>
+<s> sets the key to key to dest pos </s>
+<s> returns the key to key to dest pos </s>
+<s> returns the x value for a data item </s>
+<s> returns the x value for a data item as a date </s>
+<s> returns the high value </s>
+<s> returns the low value </s>
+<s> returns the open value </s>
+<s> returns the close value </s>
+<s> returns the trading volume </s>
+<s> insert the methods description here </s>
+<s> tests this instance for equality with an arbitrary object </s>
+<s> set up the tag with parent tags table and link to the field </s>
+<s> sets the format class </s>
+<s> render the specified error messages if there are any </s>
+<s> render the specified error messages if there are any </s>
+<s> sets the custom entry </s>
+<s> gets the custom entry </s>
+<s> reset tag state </s>
+<s> formatting a value </s>
+<s> allows an additional independant entry into the select list </s>
+<s> this method is a hookup for embedded data tags which can assign the </s>
+<s> sets the dest table </s>
+<s> return table id of the parent dbform tag </s>
+<s> gets the dest table </s>
+<s> property js calendar date format </s>
+<s> setter for property show always in footer </s>
+<s> getter for property show always in footer </s>
+<s> add a condition object to the list </s>
+<s> property label showed before input tag </s>
+<s> initialize class fields </s>
+<s> insert the methods description here </s>
+<s> insert the methods description here </s>
+<s> property currently selected index valid only when type select </s>
+<s> property html inputs attribute size </s>
+<s> process the start of this tag </s>
+<s> returns the java script validation flags </s>
+<s> insert the methods description here </s>
+<s> css class to be applied to input element </s>
+<s> type of the input element that will be rendered possible values are </s>
+<s> optional argument passed to custom formatter instance init </s>
+<s> writes out all hidden fields for the input fields </s>
+<s> sets the show always </s>
+<s> returns the show always </s>
+<s> returns hashtable with data </s>
+<s> returns the java script validation flags </s>
+<s> sets the render body </s>
+<s> gets the render body </s>
+<s> reset tag state </s>
+<s> returns the read only attribute </s>
+<s> gets the key val attribute of the db blob urltag object </s>
+<s> generates the decoded name </s>
+<s> returns beginnings of tags with attributes defining type value src alt </s>
+<s> fetches the value from the database </s>
+<s> returns the java script validation flags </s>
+<s> generates the decoded name for the html widget </s>
+<s> prepares the style attributes for inclusion in the components html tag </s>
+<s> process the start of this tag </s>
+<s> sets the auto inc attribute of the field object </s>
+<s> get access to servlet context in order to interoperate with other </s>
+<s> returns the detail message string of this throwable </s>
+<s> sets the messages </s>
+<s> sets the encoding attribute of the field object </s>
+<s> initialize tags state before start using it </s>
+<s> getter for property display type </s>
+<s> getter for property foreign table </s>
+<s> just a shortcut for calling the escaper </s>
+<s> setter for property visible fields </s>
+<s> getter for property visible fields </s>
+<s> clear the internal hash table </s>
+<s> get the enumeration of the hash table keys </s>
+<s> get the field value object having the input name </s>
+<s> writes out the field value in hidden field old </s>
+<s> get the enumeration of the hash table keys </s>
+<s> put the input field name object into the internal hash table </s>
+<s> removes the from the internal hash table </s>
+<s> removes the from the internal hash table </s>
+<s> dump the input field values object </s>
+<s> writes out the current used format to the page </s>
+<s> render inputs type text </s>
+<s> gets the id attribute of the event info object </s>
+<s> adds a new property to this event info object </s>
+<s> return the string representation of this object </s>
+<s> look up the default db forms config object stored into the registry </s>
+<s> register the input db forms config object into the registry as the default </s>
+<s> render inputs type repeat previous </s>
+<s> look up a db forms config object stored into the registry </s>
+<s> writes out all hidden fields for the input fields </s>
+<s> adds a message object to this error and puts it into the datastructure </s>
+<s> reset tag state </s>
+<s> setter for property foreign </s>
+<s> generates the decoded name for the html widget in the case of copy </s>
+<s> getter for property foreign </s>
+<s> sets the is key attribute of the field object </s>
+<s> gets the null field value attribute of the db label tag object </s>
+<s> prepares the event handlers for inclusion in the components html tag </s>
+<s> prepares the style attributes for inclusion in the components html tag </s>
+<s> sets the sortable attribute of the field object </s>
+<s> sets the con class attribute of the db connection object </s>
+<s> gets the con class attribute of the db connection object </s>
+<s> gets a jdbc connection object </s>
+<s> sets the connection pool url attribute of the db connection object </s>
+<s> sets the connection provider class attribute of the db connection object </s>
+<s> sets the name of the parameter from context scope which contains a </s>
+<s> returns the name of the parameter from context scope which contains a </s>
+<s> returns the field objet with specified id overloaded from table specials </s>
+<s> data source interface </s>
+<s> returns the vector of fields this table constists of overloaded from </s>
+<s> returns the field values string representation given by index i </s>
+<s> returns the field values string representation given by its name </s>
+<s> returns the field values object given by index i </s>
+<s> gets the is auto inc attribute of the field object </s>
+<s> replaces the occurens from realpath in s with realpath </s>
+<s> returns the field values object given by row row and index i </s>
+<s> sets the is jndi attribute of the db connection object </s>
+<s> sets the field value object given by row row and index i </s>
+<s> sets the is pow2 attribute of the db connection object </s>
+<s> gets the encoding attribute of the field object </s>
+<s> get the event id related to the input event type </s>
+<s> returns the field values object given by its name </s>
+<s> set a new event for the linked table </s>
+<s> returns the field values object given by row row and field name </s>
+<s> get the event info object related to the input event type </s>
+<s> set a new event for the linked table </s>
+<s> gets the key attribute of the field object </s>
+<s> sets the field value object given by row row and field name </s>
+<s> always throws a sqlexception </s>
+<s> gets the field object to a given field name </s>
+<s> gets the field sortable attribute of the field object </s>
+<s> always throws a sqlexception </s>
+<s> returns the index of a given field name </s>
+<s> returns the key of this table consisting of field objects representing </s>
+<s> return true if the current record is the first record </s>
+<s> get the string representation of this field object </s>
+<s> always throws a sqlexception </s>
+<s> always throws a sqlexception </s>
+<s> return true if the current record is the last record </s>
+<s> returns the from part of a query </s>
+<s> setter for property default visible fields format </s>
+<s> returns the from part of a query </s>
+<s> sets the password attribute of the db connection object </s>
+<s> moves to the first record </s>
+<s> getter for property default visible fields format </s>
+<s> sets the username attribute of the db connection object </s>
+<s> moves to the last record </s>
+<s> return the key values string from the request object </s>
+<s> get the involved tables attribute of the event engine class </s>
+<s> moves to the next record </s>
+<s> adds a new pool property used while parsing xml file </s>
+<s> adds a field object to this table and puts it into othere datastructure </s>
+<s> moves to the previous record </s>
+<s> adds a new property used while parsing xml file </s>
+<s> description of the method </s>
+<s> make the image button data look like a submit button </s>
+<s> gets the string representation of this object </s>
+<s> get the string representation of this object </s>
+<s> gets a jdbc connection object from the driver manager class specified by </s>
+<s> gets the event group value </s>
+<s> gets the event type value </s>
+<s> gets the event type strategy identifier </s>
+<s> gets the event group value </s>
+<s> sets the event string attribute of the event type object </s>
+<s> gets the event string attribute of the event type object </s>
+<s> gets a jdbc connection object from the connection factory </s>
+<s> initialize the input web event </s>
+<s> gets the event type value </s>
+<s> gets the event type strategy identifier </s>
+<s> sets the event type strategy attribute of the event type object </s>
+<s> gets the event group attribute of the event type strategy impl object </s>
+<s> returns the part of the orderby clause represented by this field value </s>
+<s> gets the event type attribute of the event type strategy impl object </s>
+<s> gets the event type strategy attribute of the event type object </s>
+<s> gets the event type strategy identifier </s>
+<s> gets the child event type strategy having the input index </s>
+<s> adds an event type strategy object to the strategy list </s>
+<s> remove an event type strategy object to the strategy list </s>
+<s> returns the internal data source element </s>
+<s> remove a data source object from the list </s>
+<s> set up the connection factory </s>
+<s> size of resultset </s>
+<s> get the key string used to retrieve the data source object from the </s>
+<s> get the field values attribute </s>
+<s> close the underlying data handler </s>
+<s> gets the document from the remote system </s>
+<s> get the event info object having the input identifier </s>
+<s> initialize the default events </s>
+<s> get key informations for key info database events </s>
+<s> set the connection parameter for the data souce </s>
+<s> checck if the input action string defines a key info event </s>
+<s> set the connection parameter for the data souce </s>
+<s> gets the footer reached attribute of the db form tag object </s>
+<s> place this filter into service </s>
+<s> get the unique instance of the singleton class </s>
+<s> returns the content type of the specified file as supplied by the client </s>
+<s> returns a input stream object for the specified file saved on the servers </s>
+<s> returns the filesystem name of the specified file or null if the file </s>
+<s> creates a string representation of the given domdocument </s>
+<s> creates an new domdocument from the given string </s>
+<s> creates a new empty domdocument </s>
+<s> returns an new created xpath evaluator </s>
+<s> reads a domdocument from given url </s>
+<s> returns the field objet with specified id </s>
+<s> gets the property attribute of the project data object </s>
+<s> gets the unsaved attribute of the project data object </s>
+<s> description of the method </s>
+<s> description of the method </s>
+<s> returns the supplied string left padded </s>
+<s> sets the new project data attribute of the xsltransform panel object </s>
+<s> description of the method </s>
+<s> description of the method </s>
+<s> description of the method </s>
+<s> gracefully shut down this controller servlet releasing any resources </s>
+<s> initialize this servlet </s>
+<s> in our development we sometimes set the connection object to auto commit </s>
+<s> set the default locale </s>
+<s> send error messages to the servlets output stream </s>
+<s> close all the connections stored into the the connections hash table </s>
+<s> initialize the sub class information use by the resource bundle for this </s>
+<s> initialize the locale key for session scope </s>
+<s> initialize the mapping information for this application </s>
+<s> get all the foreign key objects related to this table </s>
+<s> initialize this servlet </s>
+<s> this is a testcase for checking if the jdk1 </s>
+<s> a unit test for junit </s>
+<s> in addition to creating the tag instance and adding the page context to </s>
+<s> in addition to creating the tag instance and adding the page context to </s>
+<s> in addition to creating the tag instance and adding the page context to </s>
+<s> verifies that the target string has indeed been replaced in the tags </s>
+<s> sets the replacement target and replacement string on the tag then calls </s>
+<s> in addition to creating the tag instance and adding the page context to </s>
+<s> in addition to creating the tag instance and adding the page context to </s>
+<s> in addition to creating the tag instance and adding the page context to </s>
+<s> verifies that the target text is in the tags body </s>
+<s> note this only tests unauthenticated users </s>
+<s> note this only tests unauthenticated users </s>
+<s> in addition to creating the tag instance and adding the page context to </s>
+<s> verifies that the target text is in the tags body </s>
+<s> in addition to creating the tag instance and adding the page context to </s>
+<s> sets the replacement target and replacement string on the tag then calls </s>
+<s> execute the test </s>
+<s> execute the test </s>
+<s> execute the test </s>
+<s> execute the test </s>
+<s> get all the interceptor objects related to this table </s>
+<s> get key position from the input hash table </s>
+<s> returns the hash table </s>
+<s> builds a position string representing the values of the current row in </s>
+<s> builds a position string representing the values of the current row in </s>
+<s> get key position from the input hash table </s>
+<s> an intermediate routine on the way to creating an f format string </s>
+<s> returns the from part of a query </s>
+<s> gets the sub form attribute of the db form tag object </s>
+<s> gets the parent form db form tag object </s>
+<s> adds a field object to this table and puts it into othere datastructure </s>
+<s> sets the table name attribute of the db form tag object </s>
+<s> check if this table has got interceptors </s>
+<s> append the input string to the child element output string buffer </s>
+<s> gets the caption resource attribute of the db form tag object </s>
+<s> gets the javascript fields array attribute of the db form tag object </s>
+<s> this metod is useful for logging debugging purposes only </s>
+<s> gets the javascript validation attribute of the db form tag object </s>
+<s> description of the method </s>
+<s> get the redisplay fields on error attribute </s>
+<s> initialize child values </s>
+<s> test method for </s>
+<s> test method for </s>
+<s> test method for </s>
+<s> test method for </s>
+<s> test method for </s>
+<s> test method for </s>
+<s> test method for </s>
+<s> test method for </s>
+<s> test method for </s>
+<s> test method for </s>
+<s> test method for </s>
+<s> test method for </s>
+<s> test method for </s>
+<s> test method for </s>
+<s> destroys this filter </s>
+<s> sets the configuration object for this filter </s>
+<s> performs the conversion </s>
+<s> performs the conversion </s>
+<s> gets the configuration object that was supplied to this filter </s>
+<s> performs the conversion </s>
+<s> performs the conversion </s>
+<s> performs the conversion </s>
+<s> performs the conversion </s>
+<s> performs the conversion </s>
+<s> performs the conversion </s>
+<s> gets the directory that will be scanned for any handler classes </s>
+<s> adds handlers descriptors to a sorted set of descriptors </s>
+<s> condenses multiple successive wildcards into the most generic wildcard </s>
+<s> normalizes the uri string so that </s>
+<s> quot some alias quot serves as an alias for the </s>
+<s> decodes a message hidden within an image file </s>
+<s> reverses the process outlined in the comments to the interpolate method </s>
+<s> use this to set whether the keyboard input option can be selected </s>
+<s> validates whether my piece can push enemy piece </s>
+<s> revert to the saved game state specified by the index value </s>
+<s> validates whether my piece can pull enemy piece </s>
+<s> update the origin highlighting </s>
+<s> overloads set highlight to work with a board position instead of a point </s>
+<s> this should be called via highlight space or highlight selection </s>
+<s> set whether or not we are using mouse input </s>
+<s> adds a view to this subject </s>
+<s> creates a combined chart </s>
+<s> creates a sample dataset </s>
+<s> complex conjugate of this complex number </s>
+<s> this is the entry point method </s>
+<s> the b receive alarm b method is automatically called </s>
+<s> internal method store write properties to file </s>
+<s> method to log debug information only for dev </s>
+<s> internal method for formatting numbers by adding 0 in front of the number </s>
+<s> method to log info information infos non critical </s>
+<s> method to log error information critical errors </s>
+<s> internal method to print to console and file </s>
+<s> internal method to print to console and file </s>
+<s> returns a string with the name of the month </s>
+<s> reset the template text </s>
+<s> add a data object to the bottom </s>
+<s> insert a org </s>
+<s> this will retrieve data from database by sending a sql in format </s>
+<s> overrides abstract table model method </s>
+<s> overrides abstract table model method </s>
+<s> gets the debug property boolean value </s>
+<s> this method was created in visual age </s>
+<s> sets the changed db data vector property java </s>
+<s> sets the db data vector property java </s>
+<s> set the jdbc connection for this db access object </s>
+<s> sets the debug property boolean value </s>
+<s> sets the error handler property org </s>
+<s> get number of rows for this table given a condition </s>
+<s> sets the new db data vector property java </s>
+<s> retrieve a vector of data objects from the table </s>
+<s> this method was created by a smart guide </s>
+<s> sets the dba property org </s>
+<s> gets the action property org </s>
+<s> this method was created by a smart guide </s>
+<s> gets the current card property int value </s>
+<s> this method was created by a smart guide </s>
+<s> gets the done property boolean value </s>
+<s> gets the message property javax </s>
+<s> this method was created by a smart guide </s>
+<s> this method was created by a smart guide </s>
+<s> sets the action property org </s>
+<s> sets the cards property org </s>
+<s> sets the current card property int value </s>
+<s> sets the done property boolean value </s>
+<s> performs the set message method </s>
+<s> this method was created by a smart guide </s>
+<s> this method was created by a smart guide </s>
+<s> this method was created in visual age </s>
+<s> this method was created by a smart guide </s>
+<s> gets the length field property javax </s>
+<s> gets the name field property javax </s>
+<s> gets the scale field property javax </s>
+<s> gets the type combo box property javax </s>
+<s> gets the type combo box property javax </s>
+<s> this method was created by a smart guide </s>
+<s> this method was created by a smart guide </s>
+<s> sets the field property org </s>
+<s> this method was created in visual age </s>
+<s> this method was created by a smart guide </s>
+<s> gets the foreign key property org </s>
+<s> gets the foreign table property org </s>
+<s> gets the master key property org </s>
+<s> gets the master table property org </s>
+<s> sets the foreign key property org </s>
+<s> sets the foreign table property org </s>
+<s> sets the master key property org </s>
+<s> sets the master table property org </s>
+<s> returns true if the l infinite distance between this matrix and matrix m1 </s>
+<s> starts the game setting parameters for the current difficulty </s>
+<s> move a piece from one square to another </s>
+<s> set the board to a given state </s>
+<s> set clear the board flipped status </s>
+<s> set clear the board flipped status </s>
+<s> set clear the selected square </s>
+<s> tests if trying to parse a fen string causes an error </s>
+<s> compute the square corresponding to the coordinates of a mouse event </s>
+<s> check that move is a legal move in position pos </s>
+<s> used to signal the thread whether it should be running or not </s>
+<s> set the board to a given state </s>
+<s> report a move made that is a candidate for gui animation </s>
+<s> returns the array of nags as a string delimited by space </s>
+<s> used for diagnostics only </s>
+<s> returns the date string in typical yyyy </s>
+<s> this method run the video file with the name previous </s>
+<s> this method convert previous </s>
+<s> returns the username </s>
+<s> sets the password </s>
+<s> checks if user credentials are valid </s>
+<s> gets the value of a key from main properties file </s>
+<s> gets the error message </s>
+<s> returns different application variables </s>
+<s> opens the database connection </s>
+<s> shuts down the database connection </s>
+<s> set the statusbar text </s>
+<s> returns a dimension object representing this component </s>
+<s> moves and resizes this component </s>
+<s> get the tabbedpane associated with the tabcomponent </s>
+<s> augments the superclass method to do the painting </s>
+<s> helper method to paint a rib a raised point </s>
+<s> this method initializes j panel </s>
+<s> sets the statusbar for the iframe </s>
+<s> this method initializes j button </s>
+<s> gets the statusbar for the iframe </s>
+<s> this method initializes j text pane </s>
+<s> this fires everytime a new tab is selected </s>
+<s> initializes email tab once </s>
+<s> setter for property selected date </s>
+<s> update the given month display </s>
+<s> sets the database connection object </s>
+<s> gets the database connection object </s>
+<s> set the overall alpha transparency of the window </s>
+<s> return the default graphics configuration </s>
+<s> set the window to be transparent </s>
+<s> set the window mask based on a </s>
+<s> set the window mask based on an icon </s>
+<s> use this method to ensure heavyweight popups are used in </s>
+<s> w32 alpha will only work if code sun </s>
+<s> indicates whether update layered window is in use </s>
+<s> keep track of the alpha level since we cant read it from </s>
+<s> return the last alpha level we set on the window </s>
+<s> opens the database connection </s>
+<s> shuts down the database connection </s>
+<s> creates an event in the system </s>
+<s> updates the supplied event in the system </s>
+<s> deletes an event from the system </s>
+<s> officially invites users to the event </s>
+<s> sets the end timestamp for the event </s>
+<s> sets the short description of the event </s>
+<s> sets the short description of the event </s>
+<s> adds this event to this users event list </s>
+<s> update this event for the given users event list </s>
+<s> deletes the event from the users event list </s>
+<s> gets information on a contact that is invited to the event </s>
+<s> executes passed in query </s>
+<s> opens a connection to the database </s>
+<s> creates the contact for the given user </s>
+<s> updates the contact information for the given user </s>
+<s> deletes contact for the user from the mypal system </s>
+<s> sets the nonce type </s>
+<s> gets the nonce type </s>
+<s> sets the end date for the password </s>
+<s> sets the passowrd type </s>
+<s> gets the password type </s>
+<s> get the security token for this user this value </s>
+<s> sets the work phone for the given user </s>
+<s> sets the state or providence code </s>
+<s> sets the mobile phone number for the contact </s>
+<s> gets the state or providence code </s>
+<s> sets the home phone number for this contact </s>
+<s> sets the address line 2 </s>
+<s> equals only tests the user id </s>
+<s> gets the address line 2 for the user </s>
+<s> sets the address line 1 </s>
+<s> gets the address line 1 for the user </s>
+<s> sets the middle name </s>
+<s> gets the users first name </s>
+<s> sets the first name </s>
+<s> sets the last name </s>
+<s> saves input reference and adds change listener first time around </s>
+<s> remove resource change listener </s>
+<s> gets the error type </s>
+<s> opens the file referenced by the marker in the appropriate editor </s>
+<s> opens editor for the selected marker </s>
+<s> keeps the action state correct based on the viewer selection </s>
+<s> returns column specific text </s>
+<s> returns an image descriptor for the image file at the given plug in </s>
+<s> adds the nature to the project </s>
+<s> displays an error that occurred during the project creation </s>
+<s> helper method it recursively creates a folder path </s>
+<s> food class initializer </s>
+<s> method allowing to know if the itinerary is finished </s>
+<s> method allowing to insert a step in the itinerary </s>
+<s> method allowing to know the next step in the itinerary </s>
+<s> sets the value of the name property </s>
+<s> create default xml configuration file </s>
+<s> sets the value of the value property </s>
+<s> check if the configuration file exists </s>
+<s> do the technical stuff to save the configuration into a file </s>
+<s> sets the value of the output name property </s>
+<s> create an instance of </s>
+<s> create an instance of </s>
+<s> create an instance of </s>
+<s> create an instance of </s>
+<s> gets the value of the file format version property </s>
+<s> sets the value of the file format version property </s>
+<s> gets the value of the report manager version property </s>
+<s> sets the value of the report manager version property </s>
+<s> get console appender that contributed to plugin console extension extension point </s>
+<s> sets the value of the b target b option </s>
+<s> pauses the physics update animation </s>
+<s> draws the ship fuel speed bars and background to the provided </s>
+<s> starts the game setting parameters for the current difficulty </s>
+<s> for chat ru connected channel class </s>
+<s> sets type of request to get or post </s>
+<s> sets proxy configuration for this request </s>
+<s> this method should disable all connect menu items </s>
+<s> this method should enable all connect items </s>
+<s> calling this method will disable all connect controls in this frame </s>
+<s> calling this method will enable all connect controls in this frame </s>
+<s> add message to view </s>
+<s> set s channel controler for this view </s>
+<s> adds nick to recepient list </s>
+<s> starts reading thread for current channel </s>
+<s> records a new size </s>
+<s> force a fixed size </s>
+<s> returns a string representation of this regular expression </s>
+<s> returns a string representation of this regular expression </s>
+<s> compares the priority value of this action with the specified action </s>
+<s> returns the string representation of this object </s>
+<s> returns code true code iff the parameter is an </s>
+<s> returns a hash value for this action </s>
+<s> returns one element of the set and removes it </s>
+<s> emits the next part of the skeleton </s>
+<s> returns the set of elements that contained are in the specified set </s>
+<s> returns string representation of this class intervall </s>
+<s> returns the index of the intervall that contains </s>
+<s> o instanceof intervall </s>
+<s> return code true code iff code point code is contained in this intervall </s>
+<s> return code true code iff this intervall completely contains the </s>
+<s> return code true code if code o code is an intervall </s>
+<s> set a new last character </s>
+<s> set a new first character </s>
+<s> get a string representation of this intervall </s>
+<s> returns the number code of a declared state </s>
+<s> returns the number of declared states </s>
+<s> returns the names of all states </s>
+<s> returns the code of all inclusive states </s>
+<s> returns the greatest unicode value of the current input character set </s>
+<s> sets the larges unicode value of the current input character set </s>
+<s> returns the current number of character classes </s>
+<s> returns the code of the character class the specified character belongs to </s>
+<s> dump charclasses to the dump output stream </s>
+<s> return a string representation of one char class </s>
+<s> return a string representation of the char classes </s>
+<s> creates a new character class for the single character code single char code </s>
+<s> creates a new character class for each character of the specified string </s>
+<s> updates the current partition so that the specified set of characters </s>
+<s> returns code true code iff the specified set of states </s>
+<s> returns code true code iff the specified set of states </s>
+<s> returns the action with highest priority in the specified </s>
+<s> calculates the epsilon closure for a specified set of states </s>
+<s> returns the epsilon closure of a set of states </s>
+<s> stores a new macro and its definition </s>
+<s> calculates the set of states that can be reached from another </s>
+<s> marks a makro as used </s>
+<s> tests if a macro has been used </s>
+<s> returns all unused macros </s>
+<s> fetches the definition of the macro with the specified name </s>
+<s> expands all stored macros so that get definition always returns </s>
+<s> start the timer </s>
+<s> stop the timer </s>
+<s> return the number of milli seconds the timer has been running </s>
+<s> return a string representation of the timer </s>
+<s> set the text area to write text to </s>
+<s> write a single character </s>
+<s> write a portion of an array of characters </s>
+<s> write a portion of a string </s>
+<s> begin a new line </s>
+<s> mark the present position in the stream </s>
+<s> read characters into an array </s>
+<s> read characters into an array </s>
+<s> tell whether this stream is ready to be read </s>
+<s> reset the stream </s>
+<s> calculates the number of bytes a unicode character </s>
+<s> create a new saxparse exception from a message and a locator </s>
+<s> escapes all tabs and newlines </s>
+<s> create a new saxexception </s>
+<s> find the first listed provider for the given service name </s>
+<s> return an enumeration of class name strings of </s>
+<s> returns the number of cached conversion mappings </s>
+<s> converts a character array into an internalized string </s>
+<s> converts a character array into an internalized string </s>
+<s> gets the version string from the xml declaration or null </s>
+<s> returns the standalone value from the xml declaration </s>
+<s> returns true if an xml standalone declaration was found </s>
+<s> gets the declared encoding from the xml declaration </s>
+<s> create an xmlstream reader without providing an input stream yet </s>
+<s> defines an internal entity </s>
+<s> construct a new empty attributes holder object </s>
+<s> copy an existing attributes object </s>
+<s> return an attributes namespace uri </s>
+<s> return an attributes local name </s>
+<s> return an attributes xml 1 </s>
+<s> return an attributes qualified prefixed name </s>
+<s> return an attributes type by index </s>
+<s> return an attributes value by index </s>
+<s> look up an attributes index by namespace name </s>
+<s> look up an attributes type by namespace qualified name </s>
+<s> look up an attributes value by namespace qualified name </s>
+<s> clear the attribute list for reuse </s>
+<s> remove an attribute from the list </s>
+<s> set the namespace uri of a specific attribute </s>
+<s> set the local name of a specific attribute </s>
+<s> set the qualified name of a specific attribute </s>
+<s> set the type of a specific attribute </s>
+<s> set the value of a specific attribute </s>
+<s> report a bad array index in a manipulator </s>
+<s> convenience method for getting the reference to a bundle as the osgi api </s>
+<s> downloads the new bundles that have to be installed </s>
+<s> load and validate the current application specification </s>
+<s> for queries to work they have to be correct http </s>
+<s> total number of terms in doc including duplicate terms </s>
+<s> stem the word placed into the stemmer buffer through calls to add </s>
+<s> this method initializes j text field feu3 </s>
+<s> this method initializes j text field feu2 </s>
+<s> this method initializes j text field feu1 </s>
+<s> this method initializes j text field vitesse1 </s>
+<s> this method initializes j text field vitesse2 </s>
+<s> this method initializes j text field arrive voiture </s>
+<s> this method initializes j text field feu4 </s>
+<s> this method initializes j text field pourcent pass </s>
+<s> this method initializes j text field chance panne </s>
+<s> extract tags and save as xml </s>
+<s> extract bookmarks and save as xml </s>
+<s> extracts tags with alt text attributes </s>
+<s> inspect children of structure tree root </s>
+<s> inspect child array of a structure tree </s>
+<s> extracts attributes and prints them to output stream </s>
+<s> copies input file into output file via bytes </s>
+<s> copies input file into output file via lines </s>
+<s> initializes the visual controls of this module </s>
+<s> confirm a destroing with module </s>
+<s> initializes visual controls of this module </s>
+<s> returns a icon parameter from the parameter set </s>
+<s> confirm a destroing with module </s>
+<s> counts a line offset in the specified position </s>
+<s> performs an event before module is showed on the screen </s>
+<s> performs an event when caret position was updated </s>
+<s> performs an event before is hidded on the screen </s>
+<s> performs an event before module is activated </s>
+<s> performs an event before module is showed </s>
+<s> performs an event before module is passivated </s>
+<s> if this listener is registered with a main form this method will </s>
+<s> if this listener is registered with a main form this method will </s>
+<s> if this listener is registered with a main form this method will </s>
+<s> performs a find next command </s>
+<s> gets the action command binded with the module </s>
+<s> shows a confirmation dialog if edited file was updated </s>
+<s> gets a component copyrights </s>
+<s> performs an event before module is activated </s>
+<s> performs the events from user interface and received from the main form </s>
+<s> initializes the visual controls of this module </s>
+<s> performs an event before module is deactivated </s>
+<s> shows about dialog box with information about module </s>
+<s> gets the user name of this module </s>
+<s> shows dialog box with properties for this module </s>
+<s> gets a user name of group similar modules </s>
+<s> gets a normal 24x24 icon image for this module </s>
+<s> performs an open file command </s>
+<s> performs an event before module is passivated </s>
+<s> gets the related main form </s>
+<s> gets a version number </s>
+<s> sets a new related main form </s>
+<s> sets a new module parameters </s>
+<s> gets a author s name </s>
+<s> gets the parent module </s>
+<s> gets a component copyrights </s>
+<s> loads specified file into the notepad </s>
+<s> sets a home url to this html browser and rereads the content </s>
+<s> check if address bar is visible </s>
+<s> draws hello world message on the contents </s>
+<s> performs the events from user interface and received from the main form </s>
+<s> gets the component which will be buildin into main form </s>
+<s> performs an save file command </s>
+<s> reads properties from the specified persistent service </s>
+<s> sets a visible property for address bar </s>
+<s> writes properties to the specified persistent service </s>
+<s> initializes gui interface of this module </s>
+<s> performs an event before module is activated </s>
+<s> finishes the game </s>
+<s> loads an html page by url into this html browser </s>
+<s> initializes the main form content </s>
+<s> performs an save file as command </s>
+<s> gets the current url </s>
+<s> redirects an occured action to process in related main form </s>
+<s> shows notepads property dialog box </s>
+<s> goes back on the current history list </s>
+<s> performs this action </s>
+<s> adds a listener to the list thats notified each time a change </s>
+<s> goes forward on the current history list </s>
+<s> addes a new html page to the history </s>
+<s> performs the events from user interface and received from the main form </s>
+<s> gets a author s name </s>
+<s> gets a component copyrights </s>
+<s> loads a new url when link on html page is presses </s>
+<s> removes a listener from the list thats notified each time a </s>
+<s> sets a component context when component is loaded </s>
+<s> writes properties to the specified persistent service </s>
+<s> gets a component type </s>
+<s> sets a component context when component is loaded </s>
+<s> gets a component type </s>
+<s> forwards the given notification event to all </s>
+<s> gets a component name </s>
+<s> gets a component name </s>
+<s> gets a description about component usage </s>
+<s> gets a component type </s>
+<s> loads all unloaded modules </s>
+<s> loads all unloaded modules in separate thread </s>
+<s> sets a new debug state </s>
+<s> adds a listener to the list thats notified each time a change </s>
+<s> sets a component context when component is loaded </s>
+<s> gets a component type </s>
+<s> gets a component name </s>
+<s> makes an debug assertion </s>
+<s> gets the current assigned main form </s>
+<s> makes an debug assertion </s>
+<s> sets a component context when component is loaded </s>
+<s> unset assigned component context when component is unloaded </s>
+<s> prints a debug message if debug mode is turned on and detalization level </s>
+<s> removes a listener from the list thats notified each time a </s>
+<s> gets the ini file wrapper class </s>
+<s> flushes this ini file to disk file </s>
+<s> reads string value from this ini file </s>
+<s> gets the current assigned main form </s>
+<s> writes string value with specified key into the section in this ini file </s>
+<s> sets a component context when component is loaded </s>
+<s> forwards the given notification event to all </s>
+<s> reads integer value from this ini file </s>
+<s> adds a panel under specified tab </s>
+<s> gets a component type </s>
+<s> removes a panel with specified tab </s>
+<s> sets a new current locale </s>
+<s> writes integer value with specified key into the section in this ini file </s>
+<s> performs actions from user interface </s>
+<s> executes this dialog </s>
+<s> shows this splash screen in separate thread </s>
+<s> defines a path for the specified file name </s>
+<s> reads boolean value from this ini file </s>
+<s> sets a component context when component is loaded </s>
+<s> waits a delay and hides this splash screen </s>
+<s> gets a component type </s>
+<s> writes boolean value with specified key into the section in this ini file </s>
+<s> gets a resource bundle with specified name for default locale </s>
+<s> adds a listener to the list thats notified each time a change </s>
+<s> processes actions from ui </s>
+<s> reads float value from this ini file </s>
+<s> draws a panel content </s>
+<s> gets a string from resource bundle by specified key </s>
+<s> performs actions from user interface </s>
+<s> writes float value with specified key into the section in this ini file </s>
+<s> gets a preferred size of this panel which is depends with included </s>
+<s> reads date time value from this ini file </s>
+<s> gets the current font </s>
+<s> gets a resource string by specified key from the special bundle </s>
+<s> gets the text to find </s>
+<s> performs an action from the application </s>
+<s> sets a new font </s>
+<s> gets the current color </s>
+<s> executes this dialog on the screen and returns an execution result </s>
+<s> sets a new color </s>
+<s> gets an url to local resource for the application </s>
+<s> sets a new text to find </s>
+<s> executes this login dialog </s>
+<s> performs actions from user interface </s>
+<s> gets an url to global resource for the application from resource global </s>
+<s> checks is match whole words status </s>
+<s> updates the current parameters from dialog values </s>
+<s> gets a local image read from specified image directory </s>
+<s> sets a new match whole words status </s>
+<s> performs actions from user interface </s>
+<s> gets an global image read from resources global images directory </s>
+<s> performs event when list is selected </s>
+<s> forwards the given notification event to all </s>
+<s> sets a new match case sensitive status </s>
+<s> gets the text to replace </s>
+<s> sets a new text to replace </s>
+<s> sets a new product name </s>
+<s> check is search down </s>
+<s> performs event when editor lost a focus </s>
+<s> adds a listener to the list thats notified each time a change </s>
+<s> sets a new search down flag </s>
+<s> gets the current product version number </s>
+<s> gets the current font </s>
+<s> sets a new product version number </s>
+<s> updates the current parameters from dialog values </s>
+<s> sets a new font </s>
+<s> gets the current manufacture copyrights </s>
+<s> removes a listener from the list thats notified each time a </s>
+<s> sets a new manufacture copyrights </s>
+<s> gets the current position value </s>
+<s> gets the current additional product information </s>
+<s> checks is replace all status </s>
+<s> performs event when combobox value is changed </s>
+<s> performs actions from user interface </s>
+<s> sets an additional product information </s>
+<s> executes this login dialog </s>
+<s> gets the current product icon image </s>
+<s> gets a component type </s>
+<s> gets a resource string by its name </s>
+<s> performs actions from user interface </s>
+<s> performs dialog closing action </s>
+<s> executes this progress dialog </s>
+<s> adds a panel under specified tab </s>
+<s> gets a resource string by its name </s>
+<s> gets a component type </s>
+<s> adds a new item to menu </s>
+<s> unregisters a module in the desktop </s>
+<s> removes a panel with specified tab </s>
+<s> adds the specified component to this menubar </s>
+<s> checks if specified component is contained by this container </s>
+<s> executes this about dialog </s>
+<s> performs action when node in operational tree panel is selected </s>
+<s> sets a new font </s>
+<s> shows the current active module on the screen </s>
+<s> gets control of this main form </s>
+<s> gets the current color </s>
+<s> unregisters a module in the desktop </s>
+<s> checks the current auto resize mode state </s>
+<s> sets a new color </s>
+<s> gets a current size of this toolbar buttons </s>
+<s> checks is module header visible </s>
+<s> gets control of this main form with type checking </s>
+<s> adds a new menu item to specified menu defined by action object </s>
+<s> set visibility for module header </s>
+<s> sets a new size for buttons in this toolbar </s>
+<s> performs actions from user interface </s>
+<s> shows a text message on this status bar </s>
+<s> gets a resource string by its name </s>
+<s> gets a component type </s>
+<s> gets the current active module </s>
+<s> sets a new wizard dialog title </s>
+<s> gets a list of all visible modules </s>
+<s> adds a new button to the end of this toolbar and assignes different </s>
+<s> gets a panel to show a current module content </s>
+<s> checks is module visible </s>
+<s> gets a panel to show a current module content </s>
+<s> finds a created internal frame associated with specified module </s>
+<s> shows the specified module and makes it active </s>
+<s> gets all visual controls registered in the main form </s>
+<s> creates a file toolbar </s>
+<s> creates a new internal frame for this module </s>
+<s> gets the current panel index </s>
+<s> performs events from user interface </s>
+<s> if this listener is registered with a main form this method will </s>
+<s> creates a print toolbar </s>
+<s> gets a component type </s>
+<s> unregisters a module in the desktop </s>
+<s> sets a new status message of this status bar </s>
+<s> checks has this desktop a control panel </s>
+<s> sets a new status message of this status bar in separated thread </s>
+<s> checks is control panel if visible </s>
+<s> gets the current control panel </s>
+<s> removes control from this main form </s>
+<s> performs actions from user interface </s>
+<s> gets a resource string by its name </s>
+<s> performs actions from user interface </s>
+<s> updates look feel of user interface </s>
+<s> gets a component type </s>
+<s> reads properties from the specified persistent service </s>
+<s> executes this login dialog </s>
+<s> writes properties to the specified persistent service </s>
+<s> removes the specified component from this container </s>
+<s> gets the name of this scheme </s>
+<s> creates a search toolbar </s>
+<s> gets the name of this scheme </s>
+<s> sets a percent to embedded progress bar </s>
+<s> creates a navigator toolbar </s>
+<s> sets a percent to progress bar in separate thread </s>
+<s> gets service of this main form </s>
+<s> gets the name of this scheme </s>
+<s> gets the name of this scheme </s>
+<s> creates a help toolbar </s>
+<s> gets a resource mnemonic string by its name </s>
+<s> gets the name of this scheme </s>
+<s> gets the parent desktop component </s>
+<s> loads configuration of the main menu bar </s>
+<s> gets the embedded module component </s>
+<s> sets a new embedded module component </s>
+<s> gets the primary control highlight scheme color </s>
+<s> invoked when a internal frame has been closed </s>
+<s> gets the control highlight scheme color </s>
+<s> gets the focus color scheme color </s>
+<s> gets service of this main form with type checking </s>
+<s> gets the text highlight scheme color </s>
+<s> creates a file menu and assignes it to local variable </s>
+<s> gets a component type </s>
+<s> gets the highlighted text scheme color </s>
+<s> invoked when a internal frame has been activated </s>
+<s> gets dom configuration object with plugins description </s>
+<s> gets the menu selected scheme color </s>
+<s> sets dom configuration object with plugins description </s>
+<s> invoked when a internal frame has been deactivated </s>
+<s> gets the menu selected foreground scheme color </s>
+<s> loads all unloaded plugins </s>
+<s> loads configuration of the tool bar </s>
+<s> gets the accelerator foreground scheme color </s>
+<s> gets the accelerator selected scheme color </s>
+<s> loads all unloaded plugins in separate thread </s>
+<s> loads configuration for single toolbar item </s>
+<s> performs an action from the application </s>
+<s> sets module context after plugin creation </s>
+<s> loads controls from the xml configuration file </s>
+<s> gets dom configuration object with modules description </s>
+<s> gets a preferred component size for this layout </s>
+<s> gets a minimum component size for this layout </s>
+<s> loads all unloaded modules </s>
+<s> performs a layout of current component in the container </s>
+<s> gets all services registered in the main form </s>
+<s> loads services from the xml configuration file </s>
+<s> gets show date property </s>
+<s> sets dhow date property </s>
+<s> counts a point on the circle </s>
+<s> removes service from this main form </s>
+<s> sets a date for this calendar </s>
+<s> draws minute pointes of this clock </s>
+<s> draws the second arrow of this clock </s>
+<s> sets enabled property value and switch user interface </s>
+<s> gets the current active module </s>
+<s> makes all work in the thread </s>
+<s> draws the minute arrow of this clock </s>
+<s> processes actions from user interface </s>
+<s> copies value from indicator to clipboard </s>
+<s> performs actions from user inteface and local timers </s>
+<s> makes all work in the thread </s>
+<s> gets the current animation speed </s>
+<s> checks if the specified module visible </s>
+<s> paints the current image in the screen </s>
+<s> paints the image somewhere </s>
+<s> sets the new animation speed </s>
+<s> if this listener is registered with a spinner this method will </s>
+<s> pastes value from clipboard to indicator </s>
+<s> performs days selection for this table </s>
+<s> shows the module n the screen </s>
+<s> sets current selected item of this bar </s>
+<s> gets an index of panel with specified name </s>
+<s> sets an equal width to all buttons at the panel </s>
+<s> gets the text control of this console class </s>
+<s> performs the thread functionality </s>
+<s> hides the module from the screen </s>
+<s> clears the content of this console </s>
+<s> creates a short help menu and assignes it to local variable </s>
+<s> gets an index of panel with specified component </s>
+<s> gets a count of current available panels </s>
+<s> finds a location of the first day of the month </s>
+<s> sets an equal height to all buttons at the panel </s>
+<s> initializes a button with icon and listeners </s>

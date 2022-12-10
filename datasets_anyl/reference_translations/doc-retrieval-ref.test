@@ -1,0 +1,100 @@
+<s> called by the thread executor when the thread is started </s>
+<s> it is initialized only when display and message view are ready </s>
+<s> sets the columns width based on an extimation of the </s>
+<s> recalculates the column and row count considering all data </s>
+<s> adds to the table the matrices definitions as rows </s>
+<s> adds to the table the matrices definitions as rows </s>
+<s> finds a node in the subtree that contains the given id </s>
+<s> removes a timer from the project </s>
+<s> sets the initial time to show </s>
+<s> map the image contained in a file with an id </s>
+<s> to whoever is listening to this tree for example </s>
+<s> returns the package that is selected in the tree </s>
+<s> select the item with the given name package in the tree </s>
+<s> builds a function from this template </s>
+<s> initialises the download limit tracking </s>
+<s> build the query string for a spatial query using spatial solr plugin syntax </s>
+<s> creates a solr escaped string the can be used in a string buffer </s>
+<s> updates the supplied search params to cater for the query context </s>
+<s> get the value of q </s>
+<s> set the value of q </s>
+<s> set the value of fq </s>
+<s> set the value of start </s>
+<s> set the value of sort </s>
+<s> set the value of dir </s>
+<s> check age of cache and retrieve new values from collections webservices if needed </s>
+<s> update the entity types fields </s>
+<s> get the name of the field that should be included in the download </s>
+<s> returns the display string for the supplied uid </s>
+<s> set the initial point values in the index </s>
+<s> returns the title that should be used to search for a particular uid </s>
+<s> returns the rank name based on an integer position </s>
+<s> get citation info from citation web service and write it into citation </s>
+<s> calculate the number of records for a given taxa group </s>
+<s> returns true when the operation should be performed </s>
+<s> reformat bbox param to solr spatial query and add to fq list </s>
+<s> create a buffered image for the static map </s>
+<s> a junit test that test paging functionality </s>
+<s> determine the min and max cell id for a concept id and convert </s>
+<s> re use the solr server object </s>
+<s> checks if index is available </s>
+<s> output a cell density </s>
+<s> output a centi cell density </s>
+<s> output a centi cell density </s>
+<s> output a tenmilli cell density </s>
+<s> output a tenmilli cell density </s>
+<s> write out a lat long bounding box to the stream </s>
+<s> close the wrapped outputstream </s>
+<s> get the field value </s>
+<s> list the webservices </s>
+<s> setter for occurrence facet dao </s>
+<s> retrieve and render the original provider message </s>
+<s> retrieve and render the original provider message </s>
+<s> generate rdf xml profile for all data resources </s>
+<s> returns a valid latitude rounding up to 180 or down to 180 </s>
+<s> returns a valid latitude rounding up to 90 or down to 90 </s>
+<s> add xml headers to raw xml message output </s>
+<s> retrieve the url for the annotation from the response to the create annotation </s>
+<s> parse integer return null if not integer </s>
+<s> write the header line to the tab file from a set of keys </s>
+<s> the entry point required for the user interface integration </s>
+<s> returns the checklistt bank id for the supplied lsid </s>
+<s> a method used to determine the match type a specific name will have </s>
+<s> prints the statistics for this instance </s>
+<s> resets the counters </s>
+<s> get the bit value </s>
+<s> get the indexing issue type as the enum value in lower case </s>
+<s> reset the issues for this record </s>
+<s> this method is used by the webapp to create the nub </s>
+<s> creates the nub for the specified data resource </s>
+<s> this method is used by the webapp to denormalise the taxonomy </s>
+<s> denormalises the taxonomy for the specified data resource </s>
+<s> defaults identifier record list to null </s>
+<s> defaults typification record list to null </s>
+<s> defaults link record list to null </s>
+<s> defaults identifier record list to null </s>
+<s> create a gbiflog message from a set of parameters </s>
+<s> defaults year identified month identified and day identitied strings to null </s>
+<s> set the basis of record </s>
+<s> initialises the mapping of data resource id to kingdom name </s>
+<s> remove the temporary columns that were used to match the existing </s>
+<s> index all the datasets </s>
+<s> matches the occurrence records that dont have any taxon concept </s>
+<s> adds the specified common name to the supplied taxon concept id </s>
+<s> make request and parse response </s>
+<s> make request and parse response </s>
+<s> is this point in marine areas </s>
+<s> page through all the points allocating each point to the correct region </s>
+<s> page through all geo region definitions in postgres and sync with my sql </s>
+<s> initialise database connections </s>
+<s> does this cell overlap with the supplied geometry </s>
+<s> test for org </s>
+<s> utility method to build date year and month from string values </s>
+<s> build the query string for a spatial query using spatial solr plugin syntax </s>
+<s> returns a search string based on searching for the supplied uids </s>
+<s> returns the query to be used when searching for data resources </s>
+<s> if creators email is supplied then return it otherwise return name </s>
+<s> runs the script to set up the supporting items </s>
+<s> converts the checklist id into a </s>
+<s> dumps a list of the species lsids that are contained in the index </s>
+<s> retrieve a string value for a rank </s>

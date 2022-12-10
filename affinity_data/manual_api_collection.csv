@@ -1,0 +1,41 @@
+comment_a,comment_b,location_a,location_b,rank_score
+This method deserializes the Json read from the specified parse tree into an object of the specified type.,Alternate deserialization method (compared to the most commonly used deserialize(JsonParser DeserializationContext)) which takes in initialized value instance to be configured and/or populated by deserializer.,com.google.gson.Gson.fromJson(),com.fasterxml.jackson.databind.JsonDeserializer.deserialize,0.36
+Ends encoding the current object.,End an object.,com.google.gson.stream.JsonWriter.endObject(),com.fasterxml.jackson.core.JsonGenerator.writeEndObject,0.69
+Fails a test with the given message and wrapping the original exception.,Fails a test with the given message.,org.testng.Assert.fail(),org.junit.Assert.fail,0.82
+Asserts that two objects refer to the same object.,Asserts that two objects refer to the same object.,org.testng.Assert.assertSame(),org.junit.Assert.assertSame,0.81
+The main entry method for TestRunner.,Run the tests for this runner.,org.testng.TestRunner.run(),org.junit.runner.Runner.run,0.71
+Invoked each time a test fails.,Called when an atomic test fails or when a listener throws an exception.,org.testng.ITestListener.onTestFailure(),org.junit.runner.notification.RunListener.testFailure,0.63
+Asserts that an object isn't null.,Asserts that an object isn't null.,org.testng.AssertJUnit.assertNotNull(),org.junit.Assert.assertNotNull,0.62
+This method is used to output log4j internal debug statements.,Delegate to the appropriate method of the underlying logger.,org.apache.log4j.helpers.LogLog.debug(),org.slf4j.ext.LoggerWrapper.debug,0.43
+Remove the the context identified by the key parameter.,Remove the the context identified by the key parameter.,org.apache.log4j.MDC.remove(),org.slf4j.spi.MDCAdapter.remove,0.89
+Log a message object with the TRACE level including the stack trace of the Throwablet passed as parameter.,Log a message at the TRACE level according to the specified format and arguments.,org.apache.log4j.Logger.trace(),org.slf4j.helpers.SubstituteLogger.trace,0.74
+Retrieve the appropriate Logger instance.,Return an appropriate SimpleLogger instance by name.,org.apache.log4j.LogManager.getLogger(),org.slf4j.impl.SimpleLoggerFactory.getLogger,0.63
+Remove all values from the MDC.,Clear all entries in the MDC.,org.apache.log4j.MDC.clear(),org.slf4j.spi.MDCAdapter.clear,0.82
+as identified with the key parameter into the current thread's context map.,as identified with the key parameter into the current thread's context map.,org.apache.log4j.MDC.put(),org.slf4j.spi.MDCAdapter.put,0.89
+Accessor for the footer,Gets the user model for the default document footer.,jxl.SheetSettings.getFooter(),org.apache.poi.ss.usermodel.Sheet.getFooter,0.64
+Forces a page break at the specified row,Sets a page break at the indicated row,jxl.write.WritableSheet.addRowPageBreak(),org.apache.poi.xssf.streaming.SXSSFSheet.setRowBreak,0.71
+in which the comment is displayed,Assign a comment to this cell,jxl.write.WritableCellFeatures.setComment(),org.apache.poi.xssf.streaming.SXSSFCell.setCellComment,0.52
+Get the width of this image as rendered within Excel,returns pixel width of the picture or -1 if dimensions determining was failed,jxl.Image.getWidth(),org.apache.poi.hwpf.usermodel.Picture.getWidth,0.56
+Sets the top margin,Sets the top margin.,jxl.SheetSettings.setTopMargin(),org.apache.poi.xslf.usermodel.XSLFTableCell.setTopInset,0.65
+Accessor for the page start,Returns the page start.,jxl.SheetSettings.getPageStart(),org.apache.poi.hssf.usermodel.HSSFPrintSetup.getPageStart,0.5
+Moves a file.,Moves a file from one path to another.,org.apache.commons.io.FileUtils.moveFile(),com.google.common.io.Files.move,0.42
+Checks to see if the File should be accepted by this filter.,Tests if a specified file should be included in a file list.,org.apache.commons.io.filefilter.AndFileFilter.accept(),com.google.common.io.PatternFilenameFilter.accept,0.45
+Indicates if this BOM's bytes equals another.,Checks that the contents of this byte source are equal to the contents of the given byte source.,org.apache.commons.io.ByteOrderMark.equals(),com.google.common.io.ByteSource.contentEquals,0.44
+Invokes the delegate's reset() method.,Calls close() if not already closed and then resets this object back to its initial state for reuse.,org.apache.commons.io.input.BOMInputStream.reset(),com.google.common.io.FileBackedOutputStream.reset,0.33
+Invokes the delegate's read() method.,Reads up to len bytes of data from this input stream into an array of bytes.,org.apache.commons.io.input.SwappedDataInputStream.readByte(),com.google.common.io.CountingInputStream.read,0.38
+ASCII Determines whether a character is ASCII meaning that its code point is less than 128.,Checks whether the character is ASCII 7 bit.,com.google.common.base.CharMatcher.ASCII(),org.apache.commons.lang.CharUtils.isAscii,0.55
+Indicates whether c is one of the twenty-six lowercase ASCII alphabetic characters between 'a' and 'z' inclusive.,Checks if the String contains only lowercase characters.,com.google.common.base.Ascii.isLowerCase(),org.apache.commons.lang.StringUtils.isAllLowerCase,0.45
+Returns a joiner which automatically places separator between consecutive elements.,Joins the elements of the provided array into a single String containing the provided list of elements.,com.google.common.base.Joiner.on(),org.apache.commons.lang,0.36
+Returns the number of matching characters found in a character sequence.,Returns the number of matching characters zero for no match.,com.google.common.base.CharMatcher.countIn(),org.apache.commons.lang,0.59
+Returns a hash code for t.,Returns a suitable hashCode for the enumeration.,com.google.common.base.Equivalence.hash(),org.apache.commons.lang.enums.Enum.hashCode,0.33
+Splits sequence into string components and makes them available through an Iterator which may be lazily evaluated.,Splits the provided text into an array with a maximum length separators specified.,com.google.common.base.Splitter.split(),org.apache.commons.lang.StringUtils.split,0.41
+Returns the root Elementfor this document.,This will return the root Element for this Document,org.dom4j.Document.getRootElement(),org.jdom2.Document.getRootElement,0.79
+clone will return a deep clone or if this node is read-only then clone will return the same instance.,Obtain a deep unattached copy of this parent and it's children.,org.dom4j.Node.clone(),org.jdom2.Parent.clone,0.49
+Returns the SAX filter being used to filter SAX events.,Returns the XMLFilter used during parsing or null if none.,org.dom4j.io.SAXReader.getXMLFilter(),org.jdom2.input.SAXBuilder.getXMLFilter,0.71
+This will set the indent String to use; this is usually a String of empty spaces.,This will set the indent String to use; this is usually a String of empty spaces.,org.dom4j.io.OutputFormat.setIndent(),org.jdom2.output.Format.setIndent,0.87
+Sets the text data of this node or this method will throw an UnsupportedOperationException if it is read-only.,This returns the textual data within the Comment.,org.dom4j.tree.DefaultComment.setText(),org.jdom2.Comment.getText,0.51
+This will return the number of elements in this dictionary.,Returns the number of key-value pairs in this PdfDictionary.,org.apache.pdfbox.cos.COSDictionary.size(),com.itextpdf.kernel.pdf.PdfDictionary.size,0.53
+Returns the font descriptor may be null.,Generates the font descriptor for this font or null if it is one of the 14 built in fonts.,org.apache.pdfbox.pdmodel.font.PDFont.getFontDescriptor(),com.itextpdf.kernel.font.PdfSimpleFont.getFontDescriptor,0.48
+Get the invisible flag.,INVISIBLE Annotation flags.,org.apache.pdfbox.pdmodel.fdf.FDFAnnotation.isInvisible(),com.itextpdf.kernel.pdf.annot.PdfAnnotation.INVISIBLE,0.44
+This will get the offset into the document.,Gets refersTo object offset in a document.,org.apache.pdfbox.pdfwriter.COSWriterXRefEntry.getOffset(),com.itextpdf.kernel.pdf.PdfIndirectReference.getOffset,0.48
+This will get a matrix value at some point.,Computes the determinant of the matrix.,org.apache.pdfbox.util.Matrix.getValue(),com.itextpdf.kernel.geom.Matrix.getDeterminant,0.52

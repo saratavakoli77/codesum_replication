@@ -1,0 +1,100 @@
+<s> compute the objective function value </s>
+<s> display a warning dialog box and provide an audible alert </s>
+<s> initializes the columns widths </s>
+<s> adds a new row to the end with the given column values </s>
+<s> adds a new table row </s>
+<s> adds a new table row </s>
+<s> returns the tree item associated to code node code </s>
+<s> shows a confirm dialog box </s>
+<s> returns a copy of this </s>
+<s> load an image into the resource manager identifying it with the id </s>
+<s> double click handler </s>
+<s> remove the currently selected node </s>
+<s> updates the data structure with the data from the components </s>
+<s> method will create an instance of the function and declare it </s>
+<s> save the upload download limits of this download object before the test started </s>
+<s> defines the simple region as type circle </s>
+<s> remove quotes from text and replace blanks whithin the quoted section with characters </s>
+<s> filter the query by the given field name basically this creates a solr </s>
+<s> simple bean class containing some gettable properties </s>
+<s> sets the search string </s>
+<s> returns true iff code o code is equal to this </s>
+<s> setter for the index start property </s>
+<s> specifies the field by which this item should be initially sorted </s>
+<s> changes the sorting direction </s>
+<s> register an update at time </s>
+<s> this methods retrieves all institution objects in the model </s>
+<s> p this method retrieves the configuration properties for this request </s>
+<s> returns the institution for the given name </s>
+<s> returns distance between two points on earth surface using haversine formula </s>
+<s> returns whether a given uid exists fully in the cache or not </s>
+<s> using the configured names to ignore removes any concepts from linnaean ranks </s>
+<s> write the reply back to the client throwing any exceptions </s>
+<s> generate additional taxon sets </s>
+<s> process a post request for the specified resource </s>
+<s> project current coordinates into a 2 d screen </s>
+<s> load an image from a given path using the current classloader </s>
+<s> where in the document did the candidate occurr again </s>
+<s> test method for </s>
+<s> gets the url that the application was on </s>
+<s> userd to guery single query againts multiple fields </s>
+<s> test method for </s>
+<s> test method for </s>
+<s> test method for </s>
+<s> test method for </s>
+<s> test method for </s>
+<s> returns a bounding box describing the currently visible area </s>
+<s> sound constructor comment </s>
+<s> remove a facet field </s>
+<s> show view breakdown for this host country intersection </s>
+<s> setter used to inject the facet dao </s>
+<s> retrieve and render the original provider message </s>
+<s> retrieve and render the original provider message </s>
+<s> show view breakdown for this host </s>
+<s> set the latitude for sun height over horizon </s>
+<s> specifies the angle of aperture of this light </s>
+<s> actually write the xml out to the response </s>
+<s> find the url of the image from the xml document </s>
+<s> return an integer from the specified string or null </s>
+<s> defaults writing identification number column name to false </s>
+<s> the entry point required for the user interface integration </s>
+<s> returns an lsid if one of the results is australian otherwise null </s>
+<s> this method is used to find several covers from a album name </s>
+<s> update the name matching statistics based on the supplied lsid </s>
+<s> adds new match </s>
+<s> read a single bit from the bloom filter </s>
+<s> get chunktype witn specified name identifier </s>
+<s> reset the issues for this record </s>
+<s> creates an accepted concept for the name and provider and resource given </s>
+<s> shows the stopped time </s>
+<s> this method removes the map from the cache </s>
+<s> shows the stopped time </s>
+<s> defaults identifier record list to null </s>
+<s> defaults typification record list to null </s>
+<s> defaults link record list to null </s>
+<s> defaults identifier record list to null </s>
+<s> defaults unit qualifier to null </s>
+<s> defaults year identified month identified and day identitied strings to null </s>
+<s> store integer value </s>
+<s> vector vector hashtable extend </s>
+<s> is alter table with drop column supported </s>
+<s> cleans up any unclosed databases before the jvm exits </s>
+<s> defaults unit qualifier to null </s>
+<s> populate a taxon concept from the data in the lucene index </s>
+<s> invoke the request on the bebo servers </s>
+<s> gets the http post parsed </s>
+<s> retrieves the geometry form time series properties </s>
+<s> loads the index file from disk </s>
+<s> page through all geo region definitions in postgres and sync with my sql </s>
+<s> sets the up </s>
+<s> gets a polygon at position i </s>
+<s> some checks for the test next method </s>
+<s> defaults unit qualifier to null </s>
+<s> gives the string specifying the coordinates </s>
+<s> builds select query using field names from bean instance </s>
+<s> attempts to retrieve a search response for a specific community and </s>
+<s> from a provide name extract the method name </s>
+<s> parses response code input stream code to a dom document </s>
+<s> return an integer from the specified string or null </s>
+<s> retrieves the bhl title id for the specified anbg publication lsid </s>
+<s> get parent task id of task </s>

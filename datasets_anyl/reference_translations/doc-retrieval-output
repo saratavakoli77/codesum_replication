@@ -1,0 +1,699 @@
+------
+Iteration:  1
+------
+PREDICT:
+<s> creates a project resource handle for the current project name field </s>
+ACTUAL:
+<s> creates a project resource handle for the current project name field value </s>
+------
+Iteration:  2
+------
+PREDICT:
+<s> creates a project resource handle for the current project name field </s>
+ACTUAL:
+<s> creates a project resource handle for the current project name field value </s>
+------
+Iteration:  3
+------
+PREDICT:
+<s> this will handle printing out a list of nodes </s>
+ACTUAL:
+<s> print out an code </s>
+------
+Iteration:  4
+------
+PREDICT:
+<s> creates the frame source and frame list and connects them </s>
+ACTUAL:
+<s> creates the frame source and frame list and connects them </s>
+------
+Iteration:  5
+------
+PREDICT:
+<s> set the input on this editor </s>
+ACTUAL:
+<s> returns a new frame </s>
+------
+Iteration:  6
+------
+PREDICT:
+<s> retrieve an updated version of the instruments list from deutsche b rse </s>
+ACTUAL:
+<s> also updates the navigators title </s>
+------
+Iteration:  7
+------
+PREDICT:
+<s> replaces any occurrences of code 1 code or code 1 code with </s>
+ACTUAL:
+<s> replaces any occurrences of code 1 code or code 1 code with </s>
+Iteration:  8
+------
+PREDICT:
+<s> returns the container id this resolver is registered for or code null code </s>
+ACTUAL:
+<s> returns the id of this browser </s>
+------
+Iteration:  9
+------
+PREDICT:
+<s> gets the string for the given key in the current </s>
+ACTUAL:
+<s> checks whether the factory can work on the user system </s>
+------
+Iteration:  10
+------
+PREDICT:
+<s> view some html given a url </s>
+ACTUAL:
+<s> performs any work associated with the drop </s>
+------
+Iteration:  11
+------
+PREDICT:
+<s> method declared on viewer drop adapter </s>
+ACTUAL:
+<s> validates dropping on the given object </s>
+------
+Iteration:  12
+------
+PREDICT:
+<s> this returns the label text for the adapted class </s>
+ACTUAL:
+<s> return a string representation of this object </s>
+------
+Iteration:  13
+------
+PREDICT:
+<s> copies the selected text to the clipboard </s>
+ACTUAL:
+<s> copies the selected text to the clipboard </s>
+------
+Iteration:  14
+------
+PREDICT:
+<s> move selection to clipbaord </s>
+ACTUAL:
+<s> moves the selected text to the clipboard </s>
+------
+Iteration:  15
+------
+PREDICT:
+<s> return the matching proposals for the text currently in the combo </s>
+ACTUAL:
+<s> deletes the character to the right of the caret </s>
+------
+Iteration:  16
+------
+PREDICT:
+<s> copies selected element to clipboard </s>
+ACTUAL:
+<s> replaces the selection with the clipboard text or insert the text at </s>
+------
+Iteration:  17
+------
+PREDICT:
+<s> called when one of the menu items is selected </s>
+ACTUAL:
+<s> implementation of method defined on code iaction code </s>
+------
+Iteration:  18
+------
+PREDICT:
+<s> returns the actual target of the drop given the resource under the </s>
+ACTUAL:
+<s> returns the actual target of the drop given the resource under the </s>
+------
+Iteration:  19
+------
+PREDICT:
+<s> by default this will do nothing </s>
+ACTUAL:
+<s> initializes this action delegate with the workbench window it will work in </s>
+------
+Iteration:  20
+------
+PREDICT:
+<s> performs this action </s>
+ACTUAL:
+<s> performs this action </s>
+------
+Iteration:  21
+------
+PREDICT:
+<s> updates the title bar with the title of the document that is </s>
+ACTUAL:
+<s> set the image </s>
+------
+Iteration:  22
+------
+PREDICT:
+<s> set the default code iaction code handler for the copy action </s>
+ACTUAL:
+<s> returns the copy action </s>
+------
+Iteration:  23
+------
+PREDICT:
+<s> set the default code iaction code handler for the cut action </s>
+ACTUAL:
+<s> returns the cut action </s>
+------
+Iteration:  24
+------
+PREDICT:
+<s> returns the web editor input if available </s>
+ACTUAL:
+<s> returns the web editor input if available </s>
+------
+Iteration:  25
+------
+PREDICT:
+<s> shuts down this plug in and saves all plug in state </s>
+ACTUAL:
+<s> shuts down this plug in and saves all plug in state </s>
+------
+Iteration:  26
+------
+PREDICT:
+<s> set the default code iaction code handler for the paste action </s>
+ACTUAL:
+<s> returns the paste action </s>
+------
+Iteration:  27
+------
+PREDICT:
+<s> opens a child sub key of this sub key </s>
+ACTUAL:
+<s> opens a child sub key of this sub key </s>
+------
+Iteration:  28
+------
+PREDICT:
+<s> creates an code ielement code from the state captured within </s>
+ACTUAL:
+<s> creates an code ielement code from the state captured within an </s>
+------
+Iteration:  29
+------
+PREDICT:
+<s> two external editor inputs are equal if their istorages are equal </s>
+ACTUAL:
+<s> indicates whether some other object is equal to this one </s>
+------
+Iteration:  30
+------
+PREDICT:
+<s> returns code true code if the receiver has the user interface focus </s>
+ACTUAL:
+<s> if content is set transfers focus to the content </s>
+------
+Iteration:  31
+------
+PREDICT:
+<s> tests if the connection is locked </s>
+ACTUAL:
+<s> returns true if the name is locked and cannot be changed </s>
+------
+Iteration:  32
+------
+PREDICT:
+<s> recalculates the size of the composite based on the preferred size of the </s>
+ACTUAL:
+<s> recomputes the body layout and the scroll bars </s>
+------
+Iteration:  33
+------
+PREDICT:
+<s> returns the name of this editor input for display purposes </s>
+ACTUAL:
+<s> returns the name of this editor input for display purposes </s>
+------
+Iteration:  34
+------
+PREDICT:
+<s> close the editor correctly </s>
+ACTUAL:
+<s> close the editor correctly </s>
+------
+Iteration:  35
+------
+PREDICT:
+<s> gets the tv browser id of this task </s>
+ACTUAL:
+<s> returns the browser id </s>
+------
+Iteration:  36
+------
+PREDICT:
+<s> returns true if the status bar should be shown </s>
+ACTUAL:
+<s> returns true if the status bar should be shown </s>
+------
+Iteration:  37
+------
+PREDICT:
+<s> indicate whether the location bar is visible </s>
+ACTUAL:
+<s> returns true if the toolbar should be shown </s>
+------
+Iteration:  38
+------
+PREDICT:
+<s> enables or disables the preview panel </s>
+ACTUAL:
+<s> navigate to the home url </s>
+------
+Iteration:  39
+------
+PREDICT:
+<s> saves the state of an element within a memento </s>
+ACTUAL:
+<s> saves the state of an element within a memento </s>
+------
+Iteration:  40
+------
+PREDICT:
+<s> converts this object to a string </s>
+ACTUAL:
+<s> converts this object to a string </s>
+------
+Iteration:  41
+------
+PREDICT:
+<s> sets the value for url </s>
+ACTUAL:
+<s> loads a url </s>
+------
+Iteration:  42
+------
+PREDICT:
+<s> determines if name represents a jpeg file entry name </s>
+ACTUAL:
+<s> return true if the filename has a web extension </s>
+------
+Iteration:  43
+------
+PREDICT:
+<s> set up the viewer for drag and drop support </s>
+ACTUAL:
+<s> adds drag and drop support to the view </s>
+------
+Iteration:  44
+------
+PREDICT:
+<s> initializes this preference page for the given workbench </s>
+ACTUAL:
+<s> initializes this preference page using the passed workbench </s>
+------
+Iteration:  45
+------
+PREDICT:
+<s> adds a property change listener to this server </s>
+ACTUAL:
+<s> add a property change listener to this instance </s>
+------
+Iteration:  46
+------
+PREDICT:
+<s> defaults was clicked </s>
+ACTUAL:
+<s> performs special processing when this pages defaults button has been </s>
+------
+Iteration:  47
+------
+PREDICT:
+<s> show the location in the default browser window as determined by prefs </s>
+ACTUAL:
+<s> method declared on ipreference page </s>
+------
+Iteration:  48
+------
+PREDICT:
+<s> navigate to the next session history item </s>
+ACTUAL:
+<s> navigate to the next session history item </s>
+------
+Iteration:  49
+------
+PREDICT:
+<s> navigate to the previous session history item </s>
+ACTUAL:
+<s> navigate to the previous session history item </s>
+------
+Iteration:  50
+------
+PREDICT:
+<s> checks whether this code web browser code objects back command </s>
+ACTUAL:
+<s> returns code true code if the receiver can navigate to the previous </s>
+------
+Iteration:  51
+------
+PREDICT:
+<s> checks whether this code web browser code objects forward command </s>
+ACTUAL:
+<s> returns code true code if the receiver can navigate to the next </s>
+------
+Iteration:  52
+------
+PREDICT:
+<s> refresh the current page </s>
+ACTUAL:
+<s> refresh the current page </s>
+------
+Iteration:  53
+------
+PREDICT:
+<s> return the browser url </s>
+ACTUAL:
+<s> returns the current url </s>
+------
+Iteration:  54
+------
+PREDICT:
+<s> update the history list to the global shared copy </s>
+ACTUAL:
+<s> update the history list to the global shared copy </s>
+------
+Iteration:  55
+------
+PREDICT:
+<s> this method load the given config file </s>
+ACTUAL:
+<s> loads the properties </s>
+------
+Iteration:  56
+------
+PREDICT:
+<s> parses the command line arguments </s>
+ACTUAL:
+<s> parses the command line arguments </s>
+------
+Iteration:  57
+------
+PREDICT:
+<s> get the uri string </s>
+ACTUAL:
+<s> return a uri for the supplied string from the user </s>
+------
+Iteration:  58
+------
+PREDICT:
+<s> stores the properties </s>
+ACTUAL:
+<s> stores the properties </s>
+------
+Iteration:  59
+------
+PREDICT:
+<s> verifies if a string is the same after </s>
+ACTUAL:
+<s> updates the properties list </s>
+------
+Iteration:  60
+------
+PREDICT:
+<s> validate path given as valid or invalid path </s>
+ACTUAL:
+<s> updates the enabled state of the extend button based on the </s>
+------
+Iteration:  61
+------
+PREDICT:
+<s> returns a content provider for the reference project </s>
+ACTUAL:
+<s> returns a content provider for the reference project </s>
+------
+Iteration:  62
+------
+PREDICT:
+<s> set the initial selections in the resource group </s>
+ACTUAL:
+<s> visually checks the previously specified elements in the container left </s>
+------
+Iteration:  63
+------
+PREDICT:
+<s> initializes this dialogs controls </s>
+ACTUAL:
+<s> initializes this dialogs controls </s>
+------
+Iteration:  64
+------
+PREDICT:
+<s> the code container selection dialog code implementation of this </s>
+ACTUAL:
+<s> the code container selection dialog code implementation of this </s>
+------
+Iteration:  65
+------
+PREDICT:
+<s> answer a flat collection of all of the checked elements in the </s>
+ACTUAL:
+<s> the code resource selection dialog code implementation of this </s>
+------
+Iteration:  66
+------
+PREDICT:
+<s> creates a file resource handle for the file with the given workspace </s>
+ACTUAL:
+<s> creates a folder resource handle for the folder with the given workspace </s>
+------
+Iteration:  67
+------
+PREDICT:
+<s> adds the given input string to the end of the history </s>
+ACTUAL:
+<s> adds an entry to a history while taking care of duplicate history items </s>
+------
+Iteration:  68
+------
+PREDICT:
+<s> this method initializes composite properties main </s>
+ACTUAL:
+<s> creates a new label with a bold font </s>
+------
+Iteration:  69
+------
+PREDICT:
+<s> creates the link target path if a link target has been specified </s>
+ACTUAL:
+<s> creates the link target path if a link target has been specified </s>
+------
+Iteration:  70
+------
+PREDICT:
+<s> create the options specification widgets </s>
+ACTUAL:
+<s> creates the import export options group controls </s>
+------
+Iteration:  71
+------
+PREDICT:
+<s> close any open connections </s>
+ACTUAL:
+<s> creates the folder using the name and link target entered </s>
+------
+Iteration:  72
+------
+PREDICT:
+<s> the code text cell editor code implementation of this </s>
+ACTUAL:
+<s> returns the link target location entered by the user </s>
+------
+Iteration:  73
+------
+PREDICT:
+<s> indicates whether the all the required properties have been entered in </s>
+ACTUAL:
+<s> returns whether this page is complete </s>
+------
+Iteration:  74
+------
+PREDICT:
+<s> display an error dialog with the specified message </s>
+ACTUAL:
+<s> display an error dialog with the specified message </s>
+------
+Iteration:  75
+------
+PREDICT:
+<s> returns the path of the container resource specified in the container </s>
+ACTUAL:
+<s> returns the path of the container resource specified in the container </s>
+------
+Iteration:  76
+------
+PREDICT:
+<s> returns the currently entered container name </s>
+ACTUAL:
+<s> get a path from the supplied text widget </s>
+------
+Iteration:  77
+------
+PREDICT:
+<s> returns the scheduling rule to use when creating the resource at the </s>
+ACTUAL:
+<s> returns the scheduling rule to use when creating the resource at the </s>
+------
+Iteration:  78
+------
+PREDICT:
+<s> returns the path of the container resource specified in the container </s>
+ACTUAL:
+<s> returns the path of the container resource specified in the container </s>
+------
+Iteration:  79
+------
+PREDICT:
+<s> returns a new subcollection containing only those resources which are not </s>
+ACTUAL:
+<s> returns a new subcollection containing only those resources which are not </s>
+------
+Iteration:  80
+------
+PREDICT:
+<s> opens a path variable selection dialog </s>
+ACTUAL:
+<s> opens a path variable selection dialog </s>
+------
+Iteration:  81
+------
+PREDICT:
+<s> queries the user to supply a container resource </s>
+ACTUAL:
+<s> queries the user to supply a container resource </s>
+------
+Iteration:  82
+------
+PREDICT:
+<s> returns the container resource specified in the container name entry field </s>
+ACTUAL:
+<s> returns the container resource specified in the container name entry field </s>
+------
+Iteration:  83
+------
+PREDICT:
+<s> open a file dialog to select a target file </s>
+ACTUAL:
+<s> opens a container selection dialog and displays the users subsequent </s>
+------
+Iteration:  84
+------
+PREDICT:
+<s> sets the container part for this part </s>
+ACTUAL:
+<s> sets the container to use for link validation </s>
+------
+Iteration:  85
+------
+PREDICT:
+<s> the code wizard import page code implementation of this </s>
+ACTUAL:
+<s> the code wizard import page code implementation of this </s>
+------
+Iteration:  86
+------
+PREDICT:
+<s> create a new link </s>
+ACTUAL:
+<s> sets the value of the link target field </s>
+------
+Iteration:  87
+------
+PREDICT:
+<s> handles all events and enablements for controls on this page and checks </s>
+ACTUAL:
+<s> the code wizard new folder creation page code implementation of this </s>
+------
+Iteration:  88
+------
+PREDICT:
+<s> returns the container resource specified in the container name entry field </s>
+ACTUAL:
+<s> returns the container resource specified in the container name entry field </s>
+------
+Iteration:  89
+------
+PREDICT:
+<s> returns this pages collection of currently specified resources to be </s>
+ACTUAL:
+<s> returns this pages collection of currently specified resources to be </s>
+------
+Iteration:  90
+------
+PREDICT:
+<s> validates the type of the given file against the link type specified </s>
+ACTUAL:
+<s> validates the type of the given file against the link type specified </s>
+------
+Iteration:  91
+------
+PREDICT:
+<s> sets the initial contents of the container name entry field based upon </s>
+ACTUAL:
+<s> initializes this pages controls </s>
+------
+Iteration:  92
+------
+PREDICT:
+<s> open a file dialog to select a target file </s>
+ACTUAL:
+<s> opens a container selection dialog and displays the users subsequent </s>
+------
+Iteration:  93
+------
+PREDICT:
+<s> uses the dialog store to restore widget values to the values that they </s>
+ACTUAL:
+<s> restores control settings that were saved in the previous instance of this </s>
+------
+Iteration:  94
+------
+PREDICT:
+<s> returns a code boolean code indicating whether the resource name rep </s>
+ACTUAL:
+<s> validates the name of the link target </s>
+------
+Iteration:  95
+------
+PREDICT:
+<s> the code wizard import page code implementation of this </s>
+ACTUAL:
+<s> the code wizard resource import page code implementation of this </s>
+------
+Iteration:  96
+------
+PREDICT:
+<s> persists additional setting that are to be restored in the next instance </s>
+ACTUAL:
+<s> saves control settings that are to be restored in the next instance of </s>
+------
+Iteration:  97
+------
+PREDICT:
+<s> add an import using an explicit import dialog selection </s>
+ACTUAL:
+<s> open a registered type selection dialog and note the selections </s>
+------
+Iteration:  98
+------
+PREDICT:
+<s> determine if the page is complete and update the page appropriately </s>
+ACTUAL:
+<s> determine if the page is complete and update the page appropriately </s>
+------
+Iteration:  99
+------
+PREDICT:
+<s> creates a folder resource handle for the folder with the given name </s>
+ACTUAL:
+<s> checks whether the linked resource target is valid </s>
+------
+Iteration:  100
+------
+PREDICT:
+<s> repopulate the view based on the currently entered directory </s>
+ACTUAL:
+<s> set all of the selections in the selection group to value </s>
